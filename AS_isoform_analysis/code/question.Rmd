@@ -1,0 +1,160 @@
+---
+title: "Metodological explanations"
+output: html_document
+
+```{r include=FALSE}
+###library
+        library(Biobase)
+        library(edgeR)
+
+###loading
+        load("../out/annotated_genes_counts_cell_bank.rda")
+```
+
+## Data description
+
+I have a matrix of 158 samples. I want to run DGE for several groups. I might have situations when I need to compare mutually exclusive 
+groups.
+The default proceding with the edgeR package is to perform a pairwise comparison among the mutually exclusive groups.
+However, my goal is to be able to extract genes which are charachteristic of each group, and therefore, have a significatively higher or lowe 
+expression in a group compared to all others.
+
+To do this, edgeR allows you to set a contrast variable, which determines the relationship among different cclasses in the design of your 
+model
+
+```{r eval=FALSE}
+contrasts <- makeContrasts(A_vs_B_C_D_E = A - (B + C + D + E), levels = design)
+```
+The end result would be the following:
+Contrast
+Levels              A_vs_B_C_D_E
+  A                             1
+  B                            -1
+  C                            -1
+  D                            -1
+  E                            -1
+
+In the context of my analysis, I designed a function which allows me to set this kind of contrast whenever the groups involved are more than 
+3, as when the annotations in my dataset have 3 or 2 groups, the intended comparison is a pairwise one. Also, the intercept is excluded from 
+the design.
+
+```{r}
+        custom_DGE <- function(x=counts_matrix,group=group){
+                rownames(x)<- fData(annotated_genes_counts_cell_bank)$Geneid
+                data <- DGEList(counts=x,group=group)
+                keep <- filterByExpr(data)
+                filt_data <- data[keep,,keep.lib.sizes=FALSE]
+                filt_data <- normLibSizes(filt_data)
+                design <- model.matrix(~0+group)
+                filt_data <- estimateDisp(filt_data,design)
+                if(length(levels(group))>3){
+                        results <- list()
+                        for(i in 1:length(levels(group))){
+                                contrast <- rep(-1,length(levels(group)))
+                                contrast[i] <- 1
+                                fit <- glmFit(filt_data, design)
+                                results[[i]] <- glmLRT(fit, contrast=contrast)
+                        }
+                        names(results) <- levels(group)
+                }else{
+                        fit <- glmFit(filt_data, design)
+                        results <- glmLRT(fit)
+                }
+                return(results)
+        }
+``` 
+
+I will now demonstrate how the function works and which are the results.
+This is what the initial count matrix, filtered according to the groups of choice, looks like:
+
+```{r}
+counts_matrix <- exprs(annotated_genes_counts_cell_bank)[,grep("only",pData(annotated_genes_counts_cell_bank)$CRIS_class)]
+dim(counts_matrix)
+head(counts_matrix)
+```
+
+The groups are the following:
+
+```{r}
+group <- factor(pData(annotated_genes_counts_cell_bank)$CRIS_class[grep("only",pData(annotated_genes_counts_cell_bank)$CRIS_class)])
+levels(group)
+```
+
+The function is run as
+
+```{r}
+CRIS <- custom_DGE(counts_matrix,group)
+topTags(CRIS$onlyCRISA)
+```
+
+with these being the top 10 results from the analysis. However, when visualizing these results on cpm expression data, it seems clear that 
+something does not add up. FDR are recurrently very low, and the distribution of cpm in class A is not truly differential.
+
+```{r}
+cpm <- apply(counts_matrix,2,function(x){x*1000000/sum(x)})
+boxplot(cpm[which(fData(annotated_genes_counts_cell_bank)==rownames(topTags(CRIS$onlyCRISA))[1]),]~group)
+boxplot(cpm[which(fData(annotated_genes_counts_cell_bank)==rownames(topTags(CRIS$onlyCRISA))[5]),]~group)
+boxplot(cpm[which(fData(annotated_genes_counts_cell_bank)==rownames(topTags(CRIS$onlyCRISA))[10]),]~group)
+```
+
+Therefore, after searching in literature, I found the following article:
+
+[A guide to creating design matrices for gene expression experiments]("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7873980/")
+
+In the "control versus the rest" paragraph, it confirms that keeping the groups separate is the best choice, and offers 2 alternatives:
+
+- Running all possible pairwise combinations for that group and retaining genes that are considered as differentially expressed in all of 
+them 
+
+- Calculating the average mean gene expression in the "rest" group, designing the contrast matrix as follows:
+
+makeContrasts((treatmentI+treatmentII+treatmentIII)/3-treatmentCTL,
+  levels=colnames(design))
+
+               Contrasts
+ Levels         (treatmentI + treatmentII + treatmentIII)/3 - treatmentCTL
+   treatmentCTL                                                      -1.00
+   treatmentI                                                         0.33
+   treatmentII                                                        0.33
+   treatmentIII                                                       0.33
+
+To limit computational time and facilitate the design, I proceded to calculate contrast as follows, and repeated the analysis
+
+```{r}
+        custom_DGE <- function(x=counts_matrix,group=group){
+                rownames(x)<- fData(annotated_genes_counts_cell_bank)$Geneid
+                data <- DGEList(counts=x,group=group)
+                keep <- filterByExpr(data)
+                filt_data <- data[keep,,keep.lib.sizes=FALSE]
+                filt_data <- normLibSizes(filt_data)
+                design <- model.matrix(~0+group)
+                filt_data <- estimateDisp(filt_data,design)
+                if(length(levels(group))>3){
+                        results <- list()
+                        for(i in 1:length(levels(group))){
+                                contrast <- rep(-(1/(length(levels(group))-1)),length(levels(group)))
+                                contrast[i] <- 1
+                                fit <- glmFit(filt_data, design)
+                                results[[i]] <- glmLRT(fit, contrast=contrast)
+                        }
+                        names(results) <- levels(group)
+                }else{
+                        fit <- glmFit(filt_data, design)
+                        results <- glmLRT(fit)
+                }
+                return(results)
+        }
+```
+
+Results in this way are notably more coherent
+
+```{r}
+CRIS <- custom_DGE(counts_matrix,group)
+topTags(CRIS$onlyCRISA)
+boxplot(cpm[which(fData(annotated_genes_counts_cell_bank)==rownames(topTags(CRIS$onlyCRISA))[1]),]~group)
+boxplot(cpm[which(fData(annotated_genes_counts_cell_bank)==rownames(topTags(CRIS$onlyCRISA))[5]),]~group)
+boxplot(cpm[which(fData(annotated_genes_counts_cell_bank)==rownames(topTags(CRIS$onlyCRISA))[10]),]~group)
+```
+
+
+These are the reasons and motivations supporting the design of choice in all of the following analysis
