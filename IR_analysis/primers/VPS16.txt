@@ -1,0 +1,50 @@
+PRIMER PICKING RESULTS FOR 
+
+Template masking selected
+Using library: homo_sapiens with failure rate: 0.1
+No mispriming library specified
+Using 1-based sequence positions
+OLIGO            start  len      tm     gc%  any_th  3'_th hairpin seq 
+LEFT PRIMER          9   20   58.74   50.00    0.00   0.00    0.00 TGCTGTTCGGGACTATCACA
+RIGHT PRIMER       159   20   58.33   55.00    0.00   0.00    0.00 CAGTTGGAGAATAAGCCCCG
+SEQUENCE SIZE: 164
+INCLUDED REGION SIZE: 164
+
+PRODUCT SIZE: 151, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+    1 GTGCTCAATGCTGTTCGGGACTATCACATCGGGATCCCGCTCACCTATAGCCAGTATCCC
+              >>>>>>>>>>>>>>>>>>>>                                
+
+   61 TGTGCACGCCAGAAGGGTACCCTACAGCCAGGGGTGGCAGGGGAAGGGGCTGGAGATGCG
+                                                                  
+
+  121 TCTGCAGGTACCTGGCAAGCGGGGCTTATTCTCCAACTGGATCC
+                         <<<<<<<<<<<<<<<<<<<<     
+
+KEYS (in order of precedence):
+>>>>>> left primer
+<<<<<< right primer
+
+ADDITIONAL OLIGOS
+                    start  len      tm     gc%  any_th  3'_th hairpin seq 
+
+ 1 LEFT PRIMER         14   20   58.96   55.00    0.00   0.00    0.00 TTCGGGACTATCACATCGGG
+   RIGHT PRIMER       121   18   61.01   61.11    0.00   0.00    0.00 ACGCATCTCCAGCCCCTT
+   PRODUCT SIZE: 108, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+ 2 LEFT PRIMER         31   20   58.81   60.00   17.02   0.00    0.00 GGGATCCCGCTCACCTATAG
+   RIGHT PRIMER       143   18   61.72   66.67    9.21   9.21    0.00 CCCGCTTGCCAGGTACCT
+   PRODUCT SIZE: 113, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+Statistics
+         con   too    in    in   not          no    tm    tm   high  high  high        high lower      
+         sid  many   tar  excl    ok   bad    GC   too   too any_th 3'_th hair-  poly   end  case      
+        ered    Ns   get   reg   reg   GC% clamp   low  high  compl compl   pin     X  stab   end  ok  
+Left     390     0     0     0     0     0     0    82   143      0     0    12     0     0     0   153
+Right    390     0     0     0     0    57     0    25   157      0     0    57     0     0    72    22
+Pair Stats:
+considered 8044, unacceptable product size 8041, primer in pair overlaps a primer in a better pair 1476, ok 3
+libprimer3 release 2.4.0
+
+
+(primer3_results.cgi release 4.1.0)

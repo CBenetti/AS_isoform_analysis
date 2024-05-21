@@ -1,0 +1,869 @@
+"ES"	"p_val"	"path"	"hits"	"hits_n"
+"Glutathione metabolism"	-Inf	1	"Glutathione metabolism"	""	0
+"Alanine and aspartate metabolism"	-Inf	1	"Alanine and aspartate metabolism"	""	0
+"Translation factors"	-Inf	0.646215026706357	"Translation factors"	""	0
+"Electron transport chain OXPHOS system in mitochondria"	-Inf	0.119809692471801	"Electron transport chain OXPHOS system in mitochondria"	""	0
+"GPCRs other"	-Inf	0.183733469865514	"GPCRs other"	""	0
+"Osteoclast signaling"	-Inf	1	"Osteoclast signaling"	""	0
+"IL 5 signaling pathway"	-Inf	0.626260545679217	"IL 5 signaling pathway"	""	0
+"Matrix metalloproteinases"	-Inf	1	"Matrix metalloproteinases"	""	0
+"Pentose phosphate metabolism"	-Inf	1	"Pentose phosphate metabolism"	""	0
+"Phase I biotransformations non P450"	-Inf	1	"Phase I biotransformations non P450"	""	0
+"Androgen receptor signaling pathway"	-0.335021276447353	1	"Androgen receptor signaling pathway"	"10401;2316"	2
+"AMP activated protein kinase signaling"	-0.91998377716851	1	"AMP activated protein kinase signaling"	"55437"	1
+"Sphingolipid pathway"	-Inf	1	"Sphingolipid pathway"	""	0
+"Ganglio sphingolipid metabolism"	-Inf	1	"Ganglio sphingolipid metabolism"	""	0
+"Bone morphogenic protein signaling and regulation"	-Inf	1	"Bone morphogenic protein signaling and regulation"	""	0
+"Fatty acid beta oxidation"	-Inf	1	"Fatty acid beta oxidation"	""	0
+"Nucleotide binding oligomerization domain NOD pathway"	-0.169011325008424	1	"Nucleotide binding oligomerization domain NOD pathway"	"3551"	1
+"Osteopontin signaling"	0.866612584722297	0.299510294678952	"Osteopontin signaling"	"3551"	1
+"Influenza A virus infection"	-Inf	1	"Influenza A virus infection"	""	0
+"Serotonin transporter activity"	-Inf	1	"Serotonin transporter activity"	""	0
+"Target of rapamycin signaling"	-0.0593868338339261	1	"Target of rapamycin signaling"	"253260"	1
+"Glycine metabolism"	-Inf	1	"Glycine metabolism"	""	0
+"Selenium micronutrient network"	-Inf	0.177096786659007	"Selenium micronutrient network"	""	0
+"Physiological and pathological hypertrophy of the heart"	0.488100961468567	0.481914413935727	"Physiological and pathological hypertrophy of the heart"	"5600"	1
+"miRNA regulation of DNA damage response"	-Inf	0.268758430701351	"miRNA regulation of DNA damage response"	""	0
+"Vitamin D metabolism"	-Inf	1	"Vitamin D metabolism"	""	0
+"Vitamin B12 metabolism"	-Inf	0.648894611059794	"Vitamin B12 metabolism"	""	0
+"Angiogenesis"	-Inf	1	"Angiogenesis"	""	0
+"Energy metabolism"	0.488100961468567	0.139159716049387	"Energy metabolism"	"3276;23082;10514"	3
+"MicroRNAs in cardiomyocyte hypertrophy"	-2.53255850909753	0.532577790804356	"MicroRNAs in cardiomyocyte hypertrophy"	"3551"	1
+"miRNAs involved in DNA damage response"	-Inf	0.265463955371778	"miRNAs involved in DNA damage response"	""	0
+"Transcription factors regulate miRNAs related to cardiac hypertrophy"	-Inf	1	"Transcription factors regulate miRNAs related to cardiac hypertrophy"	""	0
+"Type II diabetes mellitus"	0.603578178888503	0.437469831094306	"Type II diabetes mellitus"	"3551"	1
+"Folate alcohol and cancer pathway hypotheses"	-Inf	1	"Folate alcohol and cancer pathway hypotheses"	""	0
+"Heart development"	-Inf	0.638952030816827	"Heart development"	""	0
+"Nicotine metabolism in liver cells"	-Inf	1	"Nicotine metabolism in liver cells"	""	0
+"Fluoropyrimidine activity"	-Inf	1	"Fluoropyrimidine activity"	""	0
+"Nicotine effect on dopaminergic neurons"	-Inf	1	"Nicotine effect on dopaminergic neurons"	""	0
+"Nicotine effect on chromaffin cells"	-Inf	1	"Nicotine effect on chromaffin cells"	""	0
+"Codeine and morphine metabolism"	-Inf	1	"Codeine and morphine metabolism"	""	0
+"Eicosanoid synthesis"	-Inf	1	"Eicosanoid synthesis"	""	0
+"Nuclear receptors"	-0.169011325008424	1	"Nuclear receptors"	"4929"	1
+"TP53 network"	-Inf	1	"TP53 network"	""	0
+"Folate metabolism"	-Inf	0.265747636630043	"Folate metabolism"	""	0
+"Apoptosis modulation and signaling"	-1.55292630679149	0.521589278978252	"Apoptosis modulation and signaling"	"3551"	1
+"Cell cycle"	-1.16018747462142	0.773759708378688	"Cell cycle"	"29882;29945"	2
+"Proteasome degradation"	-Inf	0.416454231638017	"Proteasome degradation"	""	0
+"Integrin mediated cell adhesion"	-1.51189903853143	0.529675890550942	"Integrin mediated cell adhesion"	"8874"	1
+"Homologous recombination"	-Inf	1	"Homologous recombination"	""	0
+"Peroxisomal beta oxidation of tetracosanoyl CoA"	-Inf	1	"Peroxisomal beta oxidation of tetracosanoyl CoA"	""	0
+"Cori cycle"	-Inf	1	"Cori cycle"	""	0
+"IL 1 signaling pathway"	0.0800162228314902	0.657590039528573	"IL 1 signaling pathway"	"11213;3551"	2
+"Cholesterol biosynthesis pathway"	-Inf	1	"Cholesterol biosynthesis pathway"	""	0
+"Integrated cancer pathway"	-Inf	0.634850321008739	"Integrated cancer pathway"	""	0
+"Thyroxine thyroid hormone production"	0.488100961468567	0.495938057055114	"Thyroxine thyroid hormone production"	"65010"	1
+"Sterol regulatory element binding proteins SREBP signaling"	-1.61881424244794	1	"Sterol regulatory element binding proteins SREBP signaling"	"84532"	1
+"SRF and miRs in smooth muscle differentiation and proliferation"	-Inf	1	"SRF and miRs in smooth muscle differentiation and proliferation"	""	0
+"Genes targeted by miRNAs in adipocytes"	-Inf	1	"Genes targeted by miRNAs in adipocytes"	""	0
+"Effects of nitric oxide"	-Inf	1	"Effects of nitric oxide"	""	0
+"Iron metabolism in placenta"	0.433653177446191	0.260051293505959	"Iron metabolism in placenta"	"48"	1
+"SREBF and miR33 in cholesterol and lipid homeostasis"	-Inf	1	"SREBF and miR33 in cholesterol and lipid homeostasis"	""	0
+"RANKL RANK signaling pathway"	0.281650084001141	0.392653813812437	"RANKL RANK signaling pathway"	"7186;3551"	2
+"Cell differentiation expanded index"	-Inf	0.410753714945588	"Cell differentiation expanded index"	""	0
+"Cell differentiation index"	-Inf	1	"Cell differentiation index"	""	0
+"Thyroid stimulating hormone TSH signaling pathway"	-Inf	0.409245364275452	"Thyroid stimulating hormone TSH signaling pathway"	""	0
+"Leptin signaling pathway"	-1.33502127644735	1	"Leptin signaling pathway"	"3551"	1
+"Follicle stimulating hormone FSH signaling pathway"	-Inf	1	"Follicle stimulating hormone FSH signaling pathway"	""	0
+"TNF related weak inducer of apoptosis TWEAK signaling pathway"	0.516115337638164	0.273803373269162	"TNF related weak inducer of apoptosis TWEAK signaling pathway"	"7186;3551"	2
+"Prolactin signaling pathway"	0.281650084001141	0.453416316387379	"Prolactin signaling pathway"	"10401;2316;7409"	3
+"Microtubule cytoskeleton regulation"	-Inf	0.636820547946559	"Microtubule cytoskeleton regulation"	""	0
+"IL 7 signaling pathway"	-Inf	1	"IL 7 signaling pathway"	""	0
+"Alzheimer 39 s disease and miRNA effects"	-1.47442433311277	0.123763817276396	"Alzheimer 39 s disease and miRNA effects"	"2906;7186;3551"	3
+"Fatty acid omega oxidation"	-Inf	1	"Fatty acid omega oxidation"	""	0
+"Neural crest differentiation"	-0.75397382572958	1	"Neural crest differentiation"	"83933;7020"	2
+"IL 17 signaling pathway"	-0.0968615392525889	0.584069241241156	"IL 17 signaling pathway"	"3551"	1
+"Type III interferon signaling"	1.6035781788885	0.239499634109527	"Type III interferon signaling"	"163702"	1
+"Arrhythmogenic right ventricular cardiomyopathy"	-Inf	0.271324343518102	"Arrhythmogenic right ventricular cardiomyopathy"	""	0
+"Endothelin pathways"	-Inf	1	"Endothelin pathways"	""	0
+"IL 9 signaling pathway"	-Inf	1	"IL 9 signaling pathway"	""	0
+"Thymic stromal lymphopoietin TSLP signaling pathway"	-Inf	0.62780372576023	"Thymic stromal lymphopoietin TSLP signaling pathway"	""	0
+"Metastatic brain tumor"	-Inf	1	"Metastatic brain tumor"	""	0
+"Pilocytic astrocytoma"	-Inf	1	"Pilocytic astrocytoma"	""	0
+"Glioblastoma signaling pathways"	-1.23772407509244	0.727793197427534	"Glioblastoma signaling pathways"	"5582"	1
+"Androgen receptor network in prostate cancer"	-1.94074233733531	0.373487195161171	"Androgen receptor network in prostate cancer"	"253260"	1
+"Synaptic vesicle pathway"	-Inf	0.648894611059794	"Synaptic vesicle pathway"	""	0
+"Pathogenic Escherichia coli infection"	-Inf	0.406008016465567	"Pathogenic Escherichia coli infection"	""	0
+"Glial cell differentiation"	-Inf	1	"Glial cell differentiation"	""	0
+"Drug induction of bile acid pathway"	-Inf	1	"Drug induction of bile acid pathway"	""	0
+"Irinotecan pathway"	-Inf	1	"Irinotecan pathway"	""	0
+"RalA downstream regulated genes"	-Inf	1	"RalA downstream regulated genes"	""	0
+"Deregulation of Rab and Rab effector genes in bladder cancer"	-Inf	1	"Deregulation of Rab and Rab effector genes in bladder cancer"	""	0
+"B cell receptor signaling pathway"	-0.618814242447945	1	"B cell receptor signaling pathway"	"7409;3551"	2
+"TNF alpha signaling pathway"	0.0186156781673471	0.519304143908126	"TNF alpha signaling pathway"	"1326;7186;3551"	3
+"AGE RAGE pathway"	-1.05938683383393	1	"AGE RAGE pathway"	"3551"	1
+"Allograft rejection"	-Inf	0.179842249241296	"Allograft rejection"	""	0
+"Interleukin 11 signaling pathway"	0.46062022504646	0.333976926363331	"Interleukin 11 signaling pathway"	"10401;3551"	2
+"Trans sulfuration pathway"	-Inf	1	"Trans sulfuration pathway"	""	0
+"miRNA biogenesis"	-Inf	1	"miRNA biogenesis"	""	0
+"Corticotropin releasing hormone signaling pathway"	-0.844882321927791	1	"Corticotropin releasing hormone signaling pathway"	"7020;4929"	2
+"Parkin ubiquitin proteasomal system pathway"	-Inf	0.266887208985971	"Parkin ubiquitin proteasomal system pathway"	""	0
+"Adipogenesis"	-Inf	0.052247268144804	"Adipogenesis"	""	0
+"Gastric cancer network 1"	-Inf	1	"Gastric cancer network 1"	""	0
+"Gastric cancer network 2"	-Inf	1	"Gastric cancer network 2"	""	0
+"Butyrate induced histone acetylation"	-Inf	1	"Butyrate induced histone acetylation"	""	0
+"Histone modifications"	-1.30331241672002	1	"Histone modifications"	"9869"	1
+"Parkinson 39 s disease pathway"	-0.169011325008424	1	"Parkinson 39 s disease pathway"	"5600"	1
+"Oncostatin M signaling pathway"	-0.0209126860192903	0.663857235864785	"Oncostatin M signaling pathway"	"10401;253260"	2
+"Brain derived neurotrophic factor BDNF signaling pathway"	-2.07824586108524	0.188302223160532	"Brain derived neurotrophic factor BDNF signaling pathway"	"3551"	1
+"Peptide GPCRs"	-Inf	0.268758430701351	"Peptide GPCRs"	""	0
+"Cardiac progenitor differentiation"	-Inf	0.405006776488747	"Cardiac progenitor differentiation"	""	0
+"One carbon metabolism"	-Inf	1	"One carbon metabolism"	""	0
+"Spinal cord injury"	-Inf	0.0801018365749709	"Spinal cord injury"	""	0
+"Quercetin and Nf kB AP 1 induced apoptosis"	0.866612584722297	0.354804426410047	"Quercetin and Nf kB AP 1 induced apoptosis"	"3551"	1
+"Dopamine metabolism"	-Inf	1	"Dopamine metabolism"	""	0
+"Alpha 6 beta 4 signaling pathway"	-Inf	1	"Alpha 6 beta 4 signaling pathway"	""	0
+"Retinoblastoma gene in cancer"	-2.22931183527624	0.735041281936287	"Retinoblastoma gene in cancer"	"5427"	1
+"Amyotrophic lateral sclerosis ALS "	-Inf	0.626520155293925	"Amyotrophic lateral sclerosis ALS "	""	0
+"TCA cycle and deficiency of pyruvate dehydrogenase complex PDHc "	1.8666125847223	0.0679128431583061	"TCA cycle and deficiency of pyruvate dehydrogenase complex PDHc "	"5160;48"	2
+"HIF1A and PPARG regulation of glycolysis"	-Inf	1	"HIF1A and PPARG regulation of glycolysis"	""	0
+"Small ligand GPCRs"	-Inf	1	"Small ligand GPCRs"	""	0
+"NAD biosynthesis II from tryptophan "	-Inf	1	"NAD biosynthesis II from tryptophan "	""	0
+"Diclofenac metabolic pathway"	-Inf	1	"Diclofenac metabolic pathway"	""	0
+"Nanomaterial induced apoptosis"	-Inf	1	"Nanomaterial induced apoptosis"	""	0
+"Nanoparticle triggered autophagic cell death"	-Inf	1	"Nanoparticle triggered autophagic cell death"	""	0
+"Nanoparticle triggered regulated necrosis"	-Inf	1	"Nanoparticle triggered regulated necrosis"	""	0
+"ATM signaling pathway"	-Inf	0.62780372576023	"ATM signaling pathway"	""	0
+"Trans sulfuration one carbon metabolism and related pathways"	-Inf	0.265463955371778	"Trans sulfuration one carbon metabolism and related pathways"	""	0
+"PDGF pathway"	-0.366048172067978	1	"PDGF pathway"	"7409"	1
+"Glycerophospholipid biosynthetic pathway"	-Inf	1	"Glycerophospholipid biosynthetic pathway"	""	0
+"Colchicine metabolic pathway"	-Inf	1	"Colchicine metabolic pathway"	""	0
+"Apoptosis"	-0.411372162577468	1	"Apoptosis"	"7186;3551"	2
+"Sulindac metabolic pathway"	-Inf	1	"Sulindac metabolic pathway"	""	0
+"Polycystic kidney disease pathway"	-1.33502127644735	0.730468712924748	"Polycystic kidney disease pathway"	"3551"	1
+"Primary focal segmental glomerulosclerosis FSGS "	-Inf	0.267733689842941	"Primary focal segmental glomerulosclerosis FSGS "	""	0
+"T cell receptor and co stimulatory signaling"	-Inf	1	"T cell receptor and co stimulatory signaling"	""	0
+"Aryl hydrocarbon receptor pathway"	-1.69410236975218	0.724502319445214	"Aryl hydrocarbon receptor pathway"	"84722"	1
+"Gastric acid production"	-Inf	1	"Gastric acid production"	""	0
+"S1P receptor signal transduction"	-Inf	1	"S1P receptor signal transduction"	""	0
+"Ebstein Barr virus LMP1 signaling"	0.0592576626646929	0.467502351028592	"Ebstein Barr virus LMP1 signaling"	"3551"	1
+"Common pathways underlying drug addiction"	-0.426169164505549	1	"Common pathways underlying drug addiction"	"5582"	1
+"Interleukin 1 IL 1 structural pathway"	1.10107783835932	0.14546100385382	"Interleukin 1 IL 1 structural pathway"	"1326;5600;3551"	3
+"Aripiprazole metabolic pathway"	-Inf	1	"Aripiprazole metabolic pathway"	""	0
+"Nanoparticle mediated activation of receptor signaling"	0.381185757552055	0.535781322461251	"Nanoparticle mediated activation of receptor signaling"	"5600"	1
+"Heroin metabolism"	-Inf	1	"Heroin metabolism"	""	0
+"Lidocaine metabolism"	-Inf	1	"Lidocaine metabolism"	""	0
+"Notch signaling"	-0.270890939027638	1	"Notch signaling"	"23220"	1
+"Blood clotting cascade"	-Inf	1	"Blood clotting cascade"	""	0
+"Cardiac hypertrophic response"	-0.788739243890257	1	"Cardiac hypertrophic response"	"3551"	1
+"Selenium metabolism and selenoproteins"	-Inf	0.638952030816827	"Selenium metabolism and selenoproteins"	""	0
+"exRNA mechanism of action and biogenesis"	-Inf	1	"exRNA mechanism of action and biogenesis"	""	0
+"Complement system"	-Inf	0.186932623139138	"Complement system"	""	0
+"Mammary gland development pathway Embryonic development Stage 1 of 4 "	-Inf	1	"Mammary gland development pathway Embryonic development Stage 1 of 4 "	""	0
+"Mammary gland development pathway Puberty Stage 2 of 4 "	-Inf	1	"Mammary gland development pathway Puberty Stage 2 of 4 "	""	0
+"Mammary gland development pathway Involution Stage 4 of 4 "	-Inf	1	"Mammary gland development pathway Involution Stage 4 of 4 "	""	0
+"Felbamate metabolism"	-Inf	1	"Felbamate metabolism"	""	0
+"Mammary gland development pathway Pregnancy and lactation Stage 3 of 4 "	-Inf	1	"Mammary gland development pathway Pregnancy and lactation Stage 3 of 4 "	""	0
+"Cocaine metabolism"	-Inf	1	"Cocaine metabolism"	""	0
+"Bladder cancer"	-Inf	0.62780372576023	"Bladder cancer"	""	0
+"Hair follicle development organogenesis part 2 of 3"	-Inf	1	"Hair follicle development organogenesis part 2 of 3"	""	0
+"Hair follicle development cytodifferentiation part 3 of 3"	-Inf	0.177096786659007	"Hair follicle development cytodifferentiation part 3 of 3"	""	0
+"PCSK9 mediated LDL receptor degradation"	-Inf	1	"PCSK9 mediated LDL receptor degradation"	""	0
+"Pluripotent stem cell differentiation pathway"	-Inf	0.641234659590265	"Pluripotent stem cell differentiation pathway"	""	0
+"Hematopoietic stem cell differentiation"	-0.220850256528042	0.67043493915569	"Hematopoietic stem cell differentiation"	"1437;7409"	2
+"Endoderm differentiation"	-Inf	0.034801654511879	"Endoderm differentiation"	""	0
+"Gene regulatory network modeling somitogenesis "	-Inf	1	"Gene regulatory network modeling somitogenesis "	""	0
+"Dopaminergic neurogenesis"	-0.0209126860192903	0.560585221086117	"Dopaminergic neurogenesis"	"4929"	1
+"Mesodermal commitment pathway"	-Inf	0.0354567375870357	"Mesodermal commitment pathway"	""	0
+"Ectoderm differentiation"	-1.04986405971542	0.594992507488423	"Ectoderm differentiation"	"83933;7020"	2
+"IL 3 signaling pathway"	-0.718349915998859	1	"IL 3 signaling pathway"	"7409"	1
+"Apoptosis related network due to altered Notch3 in ovarian cancer"	-Inf	0.405006776488747	"Apoptosis related network due to altered Notch3 in ovarian cancer"	""	0
+"IL1 and megakaryocytes in obesity"	-Inf	1	"IL1 and megakaryocytes in obesity"	""	0
+"TCA cycle nutrient use and invasiveness of ovarian cancer"	-Inf	1	"TCA cycle nutrient use and invasiveness of ovarian cancer"	""	0
+"Extracellular vesicle mediated signaling in recipient cells"	-Inf	1	"Extracellular vesicle mediated signaling in recipient cells"	""	0
+"Liver X receptor pathway"	-Inf	1	"Liver X receptor pathway"	""	0
+"Constitutive androstane receptor pathway"	-Inf	1	"Constitutive androstane receptor pathway"	""	0
+"Pregnane X receptor pathway"	-Inf	1	"Pregnane X receptor pathway"	""	0
+"Vitamin D receptor pathway"	-2.38888814842609	0.0656957894458728	"Vitamin D receptor pathway"	"3868"	1
+"PPAR alpha pathway"	-Inf	1	"PPAR alpha pathway"	""	0
+"Farnesoid X receptor pathway"	-Inf	1	"Farnesoid X receptor pathway"	""	0
+"Nod like receptor NLR signaling pathway"	2.01861567816735	0.218379703294344	"Nod like receptor NLR signaling pathway"	"3551"	1
+"Glucocorticoid receptor pathway"	-1.18649875173727	1	"Glucocorticoid receptor pathway"	"5142"	1
+"Estrogen receptor pathway"	-Inf	1	"Estrogen receptor pathway"	""	0
+"Nuclear receptors meta pathway"	-2.64434933455508	0.0188603518649487	"Nuclear receptors meta pathway"	"5142;55630"	2
+"NRF2 pathway"	-1.99136841040528	0.18863412538691	"NRF2 pathway"	"55630"	1
+"Oxytocin signaling"	-Inf	1	"Oxytocin signaling"	""	0
+"Myometrial relaxation and contraction pathways"	-0.575224973900262	0.801462237435455	"Myometrial relaxation and contraction pathways"	"196883;5142;5582"	3
+"Differentiation of white and brown adipocyte"	-Inf	1	"Differentiation of white and brown adipocyte"	""	0
+"miRNA targets in ECM and membrane receptors"	-Inf	0.626520155293925	"miRNA targets in ECM and membrane receptors"	""	0
+"Interactome of polycomb repressive complex 2 PRC2 "	-Inf	1	"Interactome of polycomb repressive complex 2 PRC2 "	""	0
+"DDX1 as a regulatory component of the Drosha microprocessor"	-Inf	1	"DDX1 as a regulatory component of the Drosha microprocessor"	""	0
+"Hypoxia mediated EMT and stemness"	-Inf	1	"Hypoxia mediated EMT and stemness"	""	0
+"Nuclear receptors in lipid metabolism and toxicity"	-Inf	1	"Nuclear receptors in lipid metabolism and toxicity"	""	0
+"Transcriptional activation by NRF2 in response to phytochemicals"	-Inf	1	"Transcriptional activation by NRF2 in response to phytochemicals"	""	0
+"Kit receptor signaling pathway"	-0.855853439748794	1	"Kit receptor signaling pathway"	"7409"	1
+"Focal adhesion"	0.129646990556091	0.660004093030593	"Focal adhesion"	"2317;2316;5753;7409;6725;5582"	6
+"Ketone bodies synthesis and degradation"	-Inf	1	"Ketone bodies synthesis and degradation"	""	0
+"Hepatocyte growth factor receptor signaling"	-Inf	1	"Hepatocyte growth factor receptor signaling"	""	0
+"Fas ligand pathway and stress induction of heat shock proteins"	-Inf	0.631436299139494	"Fas ligand pathway and stress induction of heat shock proteins"	""	0
+"Osteoblast signaling"	-Inf	1	"Osteoblast signaling"	""	0
+"Triacylglyceride synthesis"	-Inf	1	"Triacylglyceride synthesis"	""	0
+"Copper homeostasis"	-0.694102369752182	1	"Copper homeostasis"	"54739"	1
+"Overview of nanoparticle effects"	0.940613166166074	0.405751239366149	"Overview of nanoparticle effects"	"4798"	1
+"EV release from cardiac cells and their functional effects"	-Inf	1	"EV release from cardiac cells and their functional effects"	""	0
+"Melatonin metabolism and effects"	-0.0209126860192903	1	"Melatonin metabolism and effects"	"5187"	1
+"let 7 inhibition of ES cell reprogramming"	-Inf	1	"let 7 inhibition of ES cell reprogramming"	""	0
+"Dual hijack model of Vif in HIV infection"	-Inf	1	"Dual hijack model of Vif in HIV infection"	""	0
+"MFAP5 mediated ovarian cancer cell motility and invasiveness"	-Inf	1	"MFAP5 mediated ovarian cancer cell motility and invasiveness"	""	0
+"eIF5A regulation in response to inhibition of the nuclear export system"	-Inf	1	"eIF5A regulation in response to inhibition of the nuclear export system"	""	0
+"RAC1 PAK1 p38 MMP2 pathway"	-0.0782458610852421	0.706354108786734	"RAC1 PAK1 p38 MMP2 pathway"	"5600;3551"	2
+"GPCRs class B secretin like"	0.544684489834935	0.481914413935727	"GPCRs class B secretin like"	"2696"	1
+"Ovarian infertility"	-Inf	0.626260545679217	"Ovarian infertility"	""	0
+"FTO obesity variant mechanism"	-Inf	1	"FTO obesity variant mechanism"	""	0
+"Evolocumab mechanism to reduce LDL cholesterol"	-Inf	1	"Evolocumab mechanism to reduce LDL cholesterol"	""	0
+"NOTCH1 regulation of endothelial cell calcification"	-Inf	1	"NOTCH1 regulation of endothelial cell calcification"	""	0
+"Initiation of transcription and translation elongation at the HIV 1 LTR"	-Inf	1	"Initiation of transcription and translation elongation at the HIV 1 LTR"	""	0
+"G protein signaling pathways"	0.955879922819384	0.0992110402299993	"G protein signaling pathways"	"196883;5142;5582;9138;2793"	5
+"Pre implantation embryo"	-Inf	0.409245364275452	"Pre implantation embryo"	""	0
+"Zinc homeostasis"	-0.237724075092439	1	"Zinc homeostasis"	"55630"	1
+"Fatty acid biosynthesis"	-Inf	1	"Fatty acid biosynthesis"	""	0
+"Methionine de novo and salvage pathway"	-Inf	1	"Methionine de novo and salvage pathway"	""	0
+"MECP2 and associated Rett syndrome"	-Inf	0.269956833274121	"MECP2 and associated Rett syndrome"	""	0
+"Cytosine methylation"	-Inf	1	"Cytosine methylation"	""	0
+"Sleep regulation"	-Inf	0.626520155293925	"Sleep regulation"	""	0
+"MicroRNA for targeting cancer growth and vascularization in glioblastoma"	-Inf	1	"MicroRNA for targeting cancer growth and vascularization in glioblastoma"	""	0
+"Circadian rhythm genes"	-1.02739671958949	0.379521693916492	"Circadian rhythm genes"	"5582;5187;10514"	3
+"mir 124 predicted interactions with cell cycle and differentiation "	2.6035781788885	0.151451697203768	"mir 124 predicted interactions with cell cycle and differentiation "	"55437"	1
+"miR 517 relationship with ARCN1 and USP1"	-Inf	1	"miR 517 relationship with ARCN1 and USP1"	""	0
+"Transcription factor regulation in adipogenesis"	-Inf	1	"Transcription factor regulation in adipogenesis"	""	0
+"Lipid particles composition"	-Inf	1	"Lipid particles composition"	""	0
+"Photodynamic therapy induced AP 1 survival signaling"	0.330559684482087	0.402217817556858	"Photodynamic therapy induced AP 1 survival signaling"	"5600;7186"	2
+"Photodynamic therapy induced NFE2L2 NRF2 survival signaling"	0.488100961468567	0.467502351028592	"Photodynamic therapy induced NFE2L2 NRF2 survival signaling"	"5600"	1
+"Photodynamic therapy induced unfolded protein response"	-Inf	1	"Photodynamic therapy induced unfolded protein response"	""	0
+"Photodynamic therapy induced HIF 1 survival signaling"	-0.237724075092439	1	"Photodynamic therapy induced HIF 1 survival signaling"	"5160"	1
+"Photodynamic therapy induced NF kB survival signaling"	0.729109060972362	0.243551842338352	"Photodynamic therapy induced NF kB survival signaling"	"1437;3551"	2
+"Lung fibrosis"	-0.811459320390341	1	"Lung fibrosis"	"1437"	1
+"Gut liver indole metabolism "	-Inf	1	"Gut liver indole metabolism "	""	0
+"Wnt signaling pathway"	-0.483884662361836	1	"Wnt signaling pathway"	"5582"	1
+"NAD metabolism sirtuins and aging"	-Inf	1	"NAD metabolism sirtuins and aging"	""	0
+"Caffeine and theobromine metabolism"	-Inf	1	"Caffeine and theobromine metabolism"	""	0
+"Insulin signaling in adipocytes normal condition "	-Inf	1	"Insulin signaling in adipocytes normal condition "	""	0
+"Insulin signaling in adipocytes diabetic condition "	-Inf	1	"Insulin signaling in adipocytes diabetic condition "	""	0
+"IL6 signaling pathway"	-0.765655630777216	1	"IL6 signaling pathway"	"7409"	1
+"Imatinib and chronic myeloid leukemia"	-Inf	1	"Imatinib and chronic myeloid leukemia"	""	0
+"NAD metabolism"	-Inf	1	"NAD metabolism"	""	0
+"NAD biosynthetic pathways"	-Inf	1	"NAD biosynthetic pathways"	""	0
+"Hepatitis C and hepatocellular carcinoma"	-Inf	0.406864248658786	"Hepatitis C and hepatocellular carcinoma"	""	0
+"Pathways affected in adenoid cystic carcinoma"	0.0592576626646929	0.695208565967423	"Pathways affected in adenoid cystic carcinoma"	"23135;23220"	2
+"Hypothetical craniofacial development pathway"	2.01861567816735	0.196675858055853	"Hypothetical craniofacial development pathway"	"7020"	1
+"Interleukin 1 induced activation of NF kB"	-Inf	1	"Interleukin 1 induced activation of NF kB"	""	0
+"Hematopoietic stem cell gene regulation by GABP alpha beta complex"	-Inf	1	"Hematopoietic stem cell gene regulation by GABP alpha beta complex"	""	0
+"Wnt beta catenin signaling pathway in leukemia"	-Inf	1	"Wnt beta catenin signaling pathway in leukemia"	""	0
+"TGF beta signaling pathway"	-Inf	0.0528733671882637	"TGF beta signaling pathway"	""	0
+"Regulation of Wnt B catenin signaling by small molecule compounds"	-Inf	1	"Regulation of Wnt B catenin signaling by small molecule compounds"	""	0
+"Metabolism of dichloroethylene by CYP450"	-Inf	1	"Metabolism of dichloroethylene by CYP450"	""	0
+"Hypothesized pathways in pathogenesis of cardiovascular disease"	1.43365317744619	0.145346979070443	"Hypothesized pathways in pathogenesis of cardiovascular disease"	"2316;2201"	2
+"Interactions between LOXL4 and oxidative stress pathway"	-Inf	1	"Interactions between LOXL4 and oxidative stress pathway"	""	0
+"lncRNA mediated mechanisms of therapeutic resistance"	-Inf	1	"lncRNA mediated mechanisms of therapeutic resistance"	""	0
+"Tgif disruption of Shh signaling"	-Inf	1	"Tgif disruption of Shh signaling"	""	0
+"BDNF TrkB signaling"	-Inf	1	"BDNF TrkB signaling"	""	0
+"Amplification and expansion of oncogenic pathways as metastatic traits"	-Inf	1	"Amplification and expansion of oncogenic pathways as metastatic traits"	""	0
+"Cell type dependent selectivity of CCK2R signaling"	-Inf	1	"Cell type dependent selectivity of CCK2R signaling"	""	0
+"Mitochondrial long chain fatty acid beta oxidation"	-Inf	1	"Mitochondrial long chain fatty acid beta oxidation"	""	0
+"Physico chemical features and toxicity associated pathways"	-Inf	0.426515409321505	"Physico chemical features and toxicity associated pathways"	""	0
+"MAPK signaling pathway"	0.199855992837494	0.549318270467932	"MAPK signaling pathway"	"1326;6789;5600;2317;2316;5582;7186;3551"	8
+"Striated muscle contraction pathway"	-0.0593868338339261	1	"Striated muscle contraction pathway"	"8557"	1
+"Apoptosis modulation by HSP70"	-Inf	1	"Apoptosis modulation by HSP70"	""	0
+"PI3K AKT mTOR signaling pathway and therapeutic opportunities in prostate cancer"	0.0592576626646929	0.584069241241156	"PI3K AKT mTOR signaling pathway and therapeutic opportunities in prostate cancer"	"253260"	1
+"Canonical and non canonical Notch signaling"	-Inf	1	"Canonical and non canonical Notch signaling"	""	0
+"MAPK and NFkB signaling pathways inhibited by Yersinia YopJ"	1.28165008400114	0.280049907194988	"MAPK and NFkB signaling pathways inhibited by Yersinia YopJ"	"3551"	1
+"Factors and pathways affecting insulin like growth factor IGF1 Akt signaling"	-0.169011325008424	1	"Factors and pathways affecting insulin like growth factor IGF1 Akt signaling"	"253260"	1
+"TLR4 signaling and tolerance"	1.18854067960966	0.174026333747923	"TLR4 signaling and tolerance"	"11213;3551"	2
+"ERK pathway in Huntington 39 s disease"	-Inf	1	"ERK pathway in Huntington 39 s disease"	""	0
+"Toll like receptor signaling related to MyD88"	0.0186156781673468	0.572487755552475	"Toll like receptor signaling related to MyD88"	"3551"	1
+"TGF beta signaling in thyroid cells for epithelial mesenchymal transition"	-Inf	1	"TGF beta signaling in thyroid cells for epithelial mesenchymal transition"	""	0
+"T cell antigen receptor TCR pathway during Staphylococcus aureus infection"	0.751135367302361	0.234260094372923	"T cell antigen receptor TCR pathway during Staphylococcus aureus infection"	"1326;1437;3551"	3
+"Novel intracellular components of RIG I like receptor pathway"	0.729109060972362	0.219944268049166	"Novel intracellular components of RIG I like receptor pathway"	"5600;7186;3551"	3
+"Cannabinoid receptor signaling"	0.830988674991576	0.18378057142718	"Cannabinoid receptor signaling"	"221955;5600"	2
+"Valproic acid pathway"	-Inf	1	"Valproic acid pathway"	""	0
+"Regulation of apoptosis by parathyroid hormone related protein"	-Inf	1	"Regulation of apoptosis by parathyroid hormone related protein"	""	0
+"RIOK1 and RIOK2 in EGFR and PI3K mediated tumorigenesis"	1.28165008400114	0.336873702456813	"RIOK1 and RIOK2 in EGFR and PI3K mediated tumorigenesis"	"253260"	1
+"Canonical and non canonical TGF B signaling"	-Inf	1	"Canonical and non canonical TGF B signaling"	""	0
+"ATR signaling"	-Inf	1	"ATR signaling"	""	0
+"BMP2 WNT4 FOXO1 pathway in primary endometrial stromal cell differentiation"	-Inf	1	"BMP2 WNT4 FOXO1 pathway in primary endometrial stromal cell differentiation"	""	0
+"MYD88 distinct input output pathway"	-Inf	1	"MYD88 distinct input output pathway"	""	0
+"ATM signaling in development and disease "	-0.765655630777216	1	"ATM signaling in development and disease "	"5600"	1
+"4 hydroxytamoxifen dexamethasone and retinoic acids regulation of p27 expression"	-Inf	1	"4 hydroxytamoxifen dexamethasone and retinoic acids regulation of p27 expression"	""	0
+"VEGFA VEGFR2 signaling"	-1.92259499062505	0.0141527577715223	"VEGFA VEGFR2 signaling"	"253260;2317;4929;2130"	4
+"Nanomaterial induced inflammasome activation"	-Inf	1	"Nanomaterial induced inflammasome activation"	""	0
+"Benzene metabolism"	-Inf	1	"Benzene metabolism"	""	0
+"Development of pulmonary dendritic cells and macrophage subsets"	0.0592576626646929	0.299510294678952	"Development of pulmonary dendritic cells and macrophage subsets"	"1437"	1
+"Development and heterogeneity of the ILC family"	-Inf	1	"Development and heterogeneity of the ILC family"	""	0
+"Dengue 2 interactions with complement and coagulation cascades"	-Inf	0.410753714945588	"Dengue 2 interactions with complement and coagulation cascades"	""	0
+"Mitochondrial gene expression"	0.940613166166074	0.405751239366149	"Mitochondrial gene expression"	"23082"	1
+"Angiopoietin like protein 8 regulatory pathway"	-0.435950185298134	1	"Angiopoietin like protein 8 regulatory pathway"	"253260;1326;5600"	3
+"Hfe effect on hepcidin production"	-Inf	1	"Hfe effect on hepcidin production"	""	0
+"Amino acid metabolism"	-0.566346822553809	1	"Amino acid metabolism"	"84532;5160"	2
+"ApoE and miR 146 in inflammation and atherosclerosis"	-Inf	1	"ApoE and miR 146 in inflammation and atherosclerosis"	""	0
+"BMP signaling in eyelid development"	-Inf	1	"BMP signaling in eyelid development"	""	0
+"Chemokine signaling pathway"	-0.279064870473338	1	"Chemokine signaling pathway"	"196883;7409;2793;3551"	4
+"EDA signaling in hair follicle development"	-Inf	1	"EDA signaling in hair follicle development"	""	0
+"Embryonic stem cell pluripotency pathways"	-Inf	0.078548416985402	"Embryonic stem cell pluripotency pathways"	""	0
+"Focal adhesion PI3K Akt mTOR signaling pathway"	-2.11066733877762	0.0180864133091414	"Focal adhesion PI3K Akt mTOR signaling pathway"	"2793;3551"	2
+"Kennedy pathway from sphingolipids"	-Inf	1	"Kennedy pathway from sphingolipids"	""	0
+"Leptin and adiponectin"	-Inf	1	"Leptin and adiponectin"	""	0
+"Leptin insulin signaling overlap"	-Inf	1	"Leptin insulin signaling overlap"	""	0
+"Microglia pathogen phagocytosis pathway"	-0.396421821111497	1	"Microglia pathogen phagocytosis pathway"	"7409"	1
+"miR 222 in exercise induced cardiac growth"	-Inf	1	"miR 222 in exercise induced cardiac growth"	""	0
+"One carbon metabolism and related pathways"	-Inf	0.405006776488747	"One carbon metabolism and related pathways"	""	0
+"Oxidative damage response"	-0.133387415277703	1	"Oxidative damage response"	"7186"	1
+"PPAR signaling pathway"	-Inf	0.265463955371778	"PPAR signaling pathway"	""	0
+"Robo4 and VEGF signaling pathways crosstalk"	-Inf	1	"Robo4 and VEGF signaling pathways crosstalk"	""	0
+"Serotonin and anxiety related events"	1.38118575755206	0.318446880042224	"Serotonin and anxiety related events"	"2906"	1
+"TYROBP causal network in microglia"	-Inf	0.416454231638017	"TYROBP causal network in microglia"	""	0
+"Serotonin and anxiety"	-Inf	1	"Serotonin and anxiety"	""	0
+"IL 4 signaling pathway"	0.773503180330816	0.151854402710893	"IL 4 signaling pathway"	"5600;2316;3551"	3
+"mRNA protein and metabolite inducation pathway by cyclosporin A"	-Inf	1	"mRNA protein and metabolite inducation pathway by cyclosporin A"	""	0
+"GPR40 pathway"	-Inf	1	"GPR40 pathway"	""	0
+"DNA IR double strand breaks and cellular response via ATM"	-Inf	0.406008016465567	"DNA IR double strand breaks and cellular response via ATM"	""	0
+"Mevalonate pathway"	-Inf	1	"Mevalonate pathway"	""	0
+"Lipid metabolism pathway"	0.330559684482087	0.548352777855326	"Lipid metabolism pathway"	"5160"	1
+"miR 509 3p alteration of YAP1 ECM axis"	-Inf	1	"miR 509 3p alteration of YAP1 ECM axis"	""	0
+"H19 action Rb E2F1 signaling and CDK Beta catenin activity"	-Inf	1	"H19 action Rb E2F1 signaling and CDK Beta catenin activity"	""	0
+"OSX and miRNAs in tooth development"	-Inf	1	"OSX and miRNAs in tooth development"	""	0
+"PDGFR beta pathway"	-Inf	1	"PDGFR beta pathway"	""	0
+"miRNA regulation of prostate cancer signaling pathways"	-Inf	1	"miRNA regulation of prostate cancer signaling pathways"	""	0
+"miRNA regulation of p53 pathway in prostate cancer"	-Inf	1	"miRNA regulation of p53 pathway in prostate cancer"	""	0
+"Wnt signaling pathway and pluripotency"	0.0592576626646929	0.756021345039498	"Wnt signaling pathway and pluripotency"	"333926;26190;5582"	3
+"Prion disease pathway"	-Inf	1	"Prion disease pathway"	""	0
+"Ethanol effects on histone modifications"	0.234344369222784	0.572487755552475	"Ethanol effects on histone modifications"	"83933"	1
+"Prader Willi and Angelman syndrome"	-1.93040039311385	0.373854969233998	"Prader Willi and Angelman syndrome"	"10426"	1
+"p38 MAPK signaling pathway"	-0.0209126860192903	0.616972489224078	"p38 MAPK signaling pathway"	"7186"	1
+"NO cGMP PKG mediated neuroprotection"	-0.483884662361836	1	"NO cGMP PKG mediated neuroprotection"	"2906"	1
+"DNA IR damage and cellular response via ATR"	-1.48388466236184	0.727059087151145	"DNA IR damage and cellular response via ATR"	"22897"	1
+"Clear cell renal cell carcinoma pathways"	-Inf	0.175934907312169	"Clear cell renal cell carcinoma pathways"	""	0
+"SCFA and skeletal muscle substrate metabolism"	-Inf	1	"SCFA and skeletal muscle substrate metabolism"	""	0
+"Eukaryotic transcription initiation"	-0.203776743169101	1	"Eukaryotic transcription initiation"	"2968"	1
+"Oxidative stress response"	-Inf	1	"Oxidative stress response"	""	0
+"Exercise induced circadian regulation"	-0.618814242447945	1	"Exercise induced circadian regulation"	"5187"	1
+"mRNA processing"	-1.87754851084811	0.266316434531495	"mRNA processing"	"3276"	1
+"Fibrin complement receptor 3 signaling pathway"	-0.511899038531433	1	"Fibrin complement receptor 3 signaling pathway"	"3551"	1
+"PI3K AKT mTOR vitamin D3 signaling"	0.381185757552055	0.452691158143295	"PI3K AKT mTOR vitamin D3 signaling"	"5160"	1
+"Metabolism of sphingolipids in ER and Golgi apparatus"	-Inf	1	"Metabolism of sphingolipids in ER and Golgi apparatus"	""	0
+"Macrophage markers"	-Inf	1	"Macrophage markers"	""	0
+"PTF1A related regulatory pathway"	-Inf	1	"PTF1A related regulatory pathway"	""	0
+"Splicing factor NOVA regulated synaptic proteins"	-Inf	0.630014998641084	"Splicing factor NOVA regulated synaptic proteins"	""	0
+"White fat cell differentiation"	-Inf	1	"White fat cell differentiation"	""	0
+"Wnt signaling in kidney disease"	-Inf	0.626260545679217	"Wnt signaling in kidney disease"	""	0
+"Degradation pathway of sphingolipids including diseases"	-Inf	1	"Degradation pathway of sphingolipids including diseases"	""	0
+"Endometrial cancer"	-Inf	0.418720609687108	"Endometrial cancer"	""	0
+"Biosynthesis and regeneration of tetrahydrobiopterin and catabolism of phenylalanine"	-Inf	1	"Biosynthesis and regeneration of tetrahydrobiopterin and catabolism of phenylalanine"	""	0
+"GABA metabolism aka GHB "	-Inf	1	"GABA metabolism aka GHB "	""	0
+"GABA receptor signaling"	-0.169011325008424	0.572487755552475	"GABA receptor signaling"	"2564"	1
+"PI3K Akt signaling pathway"	-2.24191187205587	0.00927578482603207	"PI3K Akt signaling pathway"	"2793;3551"	2
+"Metabolism of tetrahydrocannabinol THC "	-Inf	1	"Metabolism of tetrahydrocannabinol THC "	""	0
+"Somatroph axis GH and its relationship to dietary restriction and aging"	-Inf	1	"Somatroph axis GH and its relationship to dietary restriction and aging"	""	0
+"Mevalonate arm of cholesterol biosynthesis pathway with inhibitors"	-Inf	1	"Mevalonate arm of cholesterol biosynthesis pathway with inhibitors"	""	0
+"Mevalonate arm of cholesterol biosynthesis pathway"	-Inf	1	"Mevalonate arm of cholesterol biosynthesis pathway"	""	0
+"Caloric restriction and aging"	-Inf	1	"Caloric restriction and aging"	""	0
+"Hormonal control of pubertal growth spurt"	-Inf	1	"Hormonal control of pubertal growth spurt"	""	0
+"Immune response to tuberculosis"	-Inf	1	"Immune response to tuberculosis"	""	0
+"Tumor suppressor activity of SMARCB1"	-Inf	1	"Tumor suppressor activity of SMARCB1"	""	0
+"MET in type 1 papillary renal cell carcinoma"	-Inf	0.410753714945588	"MET in type 1 papillary renal cell carcinoma"	""	0
+"Hereditary leiomyomatosis and renal cell carcinoma pathway"	0.544684489834935	0.42182706366717	"Hereditary leiomyomatosis and renal cell carcinoma pathway"	"5160"	1
+"Tryptophan catabolism leading to NAD production"	-Inf	1	"Tryptophan catabolism leading to NAD production"	""	0
+"Transcriptional cascade regulating adipogenesis"	-Inf	1	"Transcriptional cascade regulating adipogenesis"	""	0
+"Chromosomal and microsatellite instability in colorectal cancer "	-Inf	0.268758430701351	"Chromosomal and microsatellite instability in colorectal cancer "	""	0
+"Ebola virus infection in host"	-0.335021276447353	1	"Ebola virus infection in host"	"2317;2316;7020"	3
+"MAPK cascade"	-Inf	1	"MAPK cascade"	""	0
+"Neurotransmitter disorders"	-Inf	1	"Neurotransmitter disorders"	""	0
+"Phosphodiesterases in neuronal function"	-0.145360056943779	0.191915814449873	"Phosphodiesterases in neuronal function"	"2906;196883;5142"	3
+"Ras signaling"	-0.433511139846717	0.820166953755385	"Ras signaling"	"6789;5582;2793;3551"	4
+"Purine metabolism and related disorders"	-Inf	1	"Purine metabolism and related disorders"	""	0
+"Pyrimidine metabolism and related diseases"	-Inf	1	"Pyrimidine metabolism and related diseases"	""	0
+"Vitamin B6 dependent and responsive disorders"	-Inf	1	"Vitamin B6 dependent and responsive disorders"	""	0
+"Acrylamide biotransformation and exposure biomarkers"	-Inf	1	"Acrylamide biotransformation and exposure biomarkers"	""	0
+"Krebs cycle disorders"	-Inf	1	"Krebs cycle disorders"	""	0
+"Flavan 3 ol metabolic pathway"	-Inf	1	"Flavan 3 ol metabolic pathway"	""	0
+"Epithelial to mesenchymal transition in colorectal cancer"	-2.35061813149837	0.135363882398706	"Epithelial to mesenchymal transition in colorectal cancer"	"5600"	1
+"Regulation of sister chromatid separation at the metaphase anaphase transition"	-Inf	1	"Regulation of sister chromatid separation at the metaphase anaphase transition"	""	0
+"Type 2 papillary renal cell carcinoma"	-Inf	1	"Type 2 papillary renal cell carcinoma"	""	0
+"Hedgehog signaling pathway"	-1.23772407509244	1	"Hedgehog signaling pathway"	"374654"	1
+"Non small cell lung cancer"	-0.0968615392525889	0.721433818002341	"Non small cell lung cancer"	"6789;5582"	2
+"lncRNA in canonical Wnt signaling and colorectal cancer"	-1.52570483805646	0.525089310258226	"lncRNA in canonical Wnt signaling and colorectal cancer"	"7020"	1
+"Disorders of folate metabolism and transport"	-Inf	1	"Disorders of folate metabolism and transport"	""	0
+"Breast cancer pathway"	-Inf	0.0229742117403678	"Breast cancer pathway"	""	0
+"Pancreatic adenocarcinoma pathway"	-1.46967080314214	0.735041281936287	"Pancreatic adenocarcinoma pathway"	"3551"	1
+"Ethanol metabolism production of ROS by CYP2E1"	-Inf	1	"Ethanol metabolism production of ROS by CYP2E1"	""	0
+"Vitamin B12 disorders"	-Inf	1	"Vitamin B12 disorders"	""	0
+"Wnt signaling"	-2.04027801088622	0.376508004259335	"Wnt signaling"	"5582"	1
+"Ultraconserved region 339 modulation of tumor suppressor microRNAs in cancer"	-Inf	1	"Ultraconserved region 339 modulation of tumor suppressor microRNAs in cancer"	""	0
+"MTHFR deficiency"	0.544684489834935	0.481914413935727	"MTHFR deficiency"	"2906"	1
+"Metabolic reprogramming in colon cancer"	-0.203776743169101	1	"Metabolic reprogramming in colon cancer"	"5160"	1
+"Methionine metabolism leading to sulfur amino acids and related disorders"	-Inf	1	"Methionine metabolism leading to sulfur amino acids and related disorders"	""	0
+"Thiamine metabolic pathways"	2.01861567816735	0.218379703294344	"Thiamine metabolic pathways"	"5160"	1
+"Acute viral myocarditis"	-1.30331241672002	0.730468712924748	"Acute viral myocarditis"	"663"	1
+"Lamin A processing pathway"	-Inf	1	"Lamin A processing pathway"	""	0
+"Oxidation by cytochrome P450"	-Inf	0.421157697119052	"Oxidation by cytochrome P450"	""	0
+"Statin inhibition of cholesterol production"	0.188540679609659	0.572487755552475	"Statin inhibition of cholesterol production"	"84532"	1
+"Extracellular vesicles in the crosstalk of cardiac cells"	0.729109060972362	0.437469831094306	"Extracellular vesicles in the crosstalk of cardiac cells"	"10611"	1
+"Inhibition of exosome biogenesis and secretion by Manumycin A in CRPC cells"	-Inf	1	"Inhibition of exosome biogenesis and secretion by Manumycin A in CRPC cells"	""	0
+"Oligodendrocyte specification and differentiation leading to myelin components for CNS"	-Inf	1	"Oligodendrocyte specification and differentiation leading to myelin components for CNS"	""	0
+"Rett syndrome"	-0.455315510165065	1	"Rett syndrome"	"9001"	1
+"Ferroptosis"	-Inf	0.423758305260772	"Ferroptosis"	""	0
+"miRNA degrading enzymes"	-Inf	1	"miRNA degrading enzymes"	""	0
+"Mitochondrial fatty acid synthesis pathway"	-Inf	1	"Mitochondrial fatty acid synthesis pathway"	""	0
+"Effect of progerin on genes involved in progeria"	-Inf	0.626260545679217	"Effect of progerin on genes involved in progeria"	""	0
+"Thermogenesis"	-0.605875186740447	1	"Thermogenesis"	"196883;5600"	2
+"Mitochondrial complex I assembly model OXPHOS system"	-Inf	0.406864248658786	"Mitochondrial complex I assembly model OXPHOS system"	""	0
+"miRNA role in immune response in sepsis"	-1.31925396058904	1	"miRNA role in immune response in sepsis"	"3551"	1
+"Neovascularization processes"	-Inf	0.626260545679217	"Neovascularization processes"	""	0
+"ncRNAs involved in Wnt signaling in hepatocellular carcinoma"	-Inf	0.178796614019592	"ncRNAs involved in Wnt signaling in hepatocellular carcinoma"	""	0
+"ncRNAs involved in STAT3 signaling in hepatocellular carcinoma"	-Inf	1	"ncRNAs involved in STAT3 signaling in hepatocellular carcinoma"	""	0
+"Non genomic actions of 1 25 dihydroxyvitamin D3"	0.158793336215607	0.457292230690901	"Non genomic actions of 1 25 dihydroxyvitamin D3"	"5600;5582;3551"	3
+"Vitamins A and D action mechanisms"	-Inf	1	"Vitamins A and D action mechanisms"	""	0
+"Ciliary landscape"	-1.06570060776613	0.289919783880995	"Ciliary landscape"	"57560;11020;7020"	3
+"NRF2 ARE regulation"	-Inf	1	"NRF2 ARE regulation"	""	0
+"EGF EGFR signaling pathway"	-0.0819882627710588	0.622958203514041	"EGF EGFR signaling pathway"	"10401;253260;5753;7409;9138"	5
+"Non homologous end joining"	-Inf	1	"Non homologous end joining"	""	0
+"Bile acids synthesis and enterohepatic circulation "	-Inf	1	"Bile acids synthesis and enterohepatic circulation "	""	0
+"Nonalcoholic fatty liver disease"	-1.1333874152777	0.446051938669369	"Nonalcoholic fatty liver disease"	"7186;3551"	2
+"Model for regulation of MSMP expression in cancer cells and its proangiogenic role in ovarian tumors"	-Inf	1	"Model for regulation of MSMP expression in cancer cells and its proangiogenic role in ovarian tumors"	""	0
+"MicroRNA network associated with chronic lymphocytic leukemia"	-Inf	1	"MicroRNA network associated with chronic lymphocytic leukemia"	""	0
+"FABP4 in ovarian cancer"	-Inf	1	"FABP4 in ovarian cancer"	""	0
+"Platelet mediated interactions with vascular and circulating cells"	-Inf	1	"Platelet mediated interactions with vascular and circulating cells"	""	0
+"LTF danger signal response pathway"	-Inf	1	"LTF danger signal response pathway"	""	0
+"Supression of HMGB1 mediated inflammation by THBD"	1.28165008400114	0.218379703294344	"Supression of HMGB1 mediated inflammation by THBD"	"3551"	1
+"Altered glycosylation of MUC1 in tumor microenvironment"	1.28165008400114	0.218379703294344	"Altered glycosylation of MUC1 in tumor microenvironment"	"3551"	1
+"Resistin as a regulator of inflammation"	-0.0593868338339261	0.595338301207528	"Resistin as a regulator of inflammation"	"3551"	1
+"Vitamin D in inflammatory diseases"	0.281650084001141	0.452691158143295	"Vitamin D in inflammatory diseases"	"3551"	1
+"Relationship between inflammation COX 2 and EGFR"	-Inf	1	"Relationship between inflammation COX 2 and EGFR"	""	0
+"Control of immune tolerance by vasoactive intestinal peptide"	-Inf	1	"Control of immune tolerance by vasoactive intestinal peptide"	""	0
+"Cells and molecules involved in local acute inflammatory response "	-Inf	1	"Cells and molecules involved in local acute inflammatory response "	""	0
+"Selective expression of chemokine receptors during T cell polarization"	-0.366048172067978	0.560585221086117	"Selective expression of chemokine receptors during T cell polarization"	"1437"	1
+"IL 10 anti inflammatory signaling pathway "	-Inf	1	"IL 10 anti inflammatory signaling pathway "	""	0
+"Signal transduction through IL1R"	0.762275924907561	0.223459322317232	"Signal transduction through IL1R"	"11213;3551"	2
+"G1 to S cell cycle control"	-0.237724075092439	0.691545349238489	"G1 to S cell cycle control"	"23649;5427"	2
+"Cysteine and methionine catabolism"	-Inf	1	"Cysteine and methionine catabolism"	""	0
+"Tyrosine metabolism and related disorders"	-Inf	1	"Tyrosine metabolism and related disorders"	""	0
+"Molybdenum cofactor Moco biosynthesis"	-Inf	1	"Molybdenum cofactor Moco biosynthesis"	""	0
+"Gamma glutamyl cycle for the biosynthesis and degradation of glutathione including diseases"	-Inf	1	"Gamma glutamyl cycle for the biosynthesis and degradation of glutathione including diseases"	""	0
+"Cerebral organic acidurias including diseases"	-Inf	1	"Cerebral organic acidurias including diseases"	""	0
+"Glycosylation and related congenital defects"	-Inf	1	"Glycosylation and related congenital defects"	""	0
+"Metabolic pathway of LDL HDL and TG including diseases"	-Inf	1	"Metabolic pathway of LDL HDL and TG including diseases"	""	0
+"Classical pathway of steroidogenesis with glucocorticoid and mineralocorticoid metabolism"	-Inf	1	"Classical pathway of steroidogenesis with glucocorticoid and mineralocorticoid metabolism"	""	0
+"Alternative pathway of fetal androgen synthesis"	-Inf	1	"Alternative pathway of fetal androgen synthesis"	""	0
+"Inflammatory response pathway"	-Inf	1	"Inflammatory response pathway"	""	0
+"Intraflagellar transport proteins binding to dynein"	1.14414656025121	0.164360981553223	"Intraflagellar transport proteins binding to dynein"	"57560;11020"	2
+"Transcription co factors SKI and SKIL protein partners"	-Inf	1	"Transcription co factors SKI and SKIL protein partners"	""	0
+"Mechanoregulation and pathology of YAP TAZ via Hippo and non Hippo mechanisms"	-Inf	0.638952030816827	"Mechanoregulation and pathology of YAP TAZ via Hippo and non Hippo mechanisms"	""	0
+"Envelope proteins and their potential roles in EDMD physiopathology"	0.0387935601049772	0.353755215563104	"Envelope proteins and their potential roles in EDMD physiopathology"	"196883;23353"	2
+"Genes related to primary cilium development based on CRISPR "	0.0870026531475973	0.757928196021004	"Genes related to primary cilium development based on CRISPR "	"80817;57560;11020"	3
+"Hippo YAP signaling"	0.488100961468567	0.452691158143295	"Hippo YAP signaling"	"23043"	1
+"Regulatory circuits of the STAT3 signaling pathway"	0.0695996068861521	0.159226666062918	"Regulatory circuits of the STAT3 signaling pathway"	"10401;253260;5600;163702"	4
+"Synaptic signaling pathways associated with autism spectrum disorder"	-0.511899038531433	1	"Synaptic signaling pathways associated with autism spectrum disorder"	"2906"	1
+"Hippo signaling regulation pathways"	-1.45531551016507	0.525089310258226	"Hippo signaling regulation pathways"	"5582"	1
+"Hippo Merlin signaling dysregulation"	-Inf	0.0807563977109028	"Hippo Merlin signaling dysregulation"	""	0
+"Leukocyte intrinsic Hippo pathway functions"	-Inf	1	"Leukocyte intrinsic Hippo pathway functions"	""	0
+"Oxysterols derived from cholesterol"	-Inf	0.648894611059794	"Oxysterols derived from cholesterol"	""	0
+"Fragile X syndrome"	-Inf	0.0814784645984947	"Fragile X syndrome"	""	0
+"GPCRs class A rhodopsin like"	-Inf	0.00138956660563269	"GPCRs class A rhodopsin like"	""	0
+"FBXL10 enhancement of MAP ERK signaling in diffuse large B cell lymphoma"	-Inf	1	"FBXL10 enhancement of MAP ERK signaling in diffuse large B cell lymphoma"	""	0
+"Overview of interferons mediated signaling pathway"	-0.644349334555082	1	"Overview of interferons mediated signaling pathway"	"163702"	1
+"Interactions between immune cells and microRNAs in tumor microenvironment"	-0.644349334555082	1	"Interactions between immune cells and microRNAs in tumor microenvironment"	"10401"	1
+"MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement"	-Inf	1	"MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement"	""	0
+"Cell migration and invasion through p75NTR"	-Inf	1	"Cell migration and invasion through p75NTR"	""	0
+"Canonical NF kB pathway"	1.01861567816735	0.196675858055853	"Canonical NF kB pathway"	"3551"	1
+"Neural crest cell migration during development"	-Inf	0.62780372576023	"Neural crest cell migration during development"	""	0
+"Neural crest cell migration in cancer"	-Inf	0.631436299139494	"Neural crest cell migration in cancer"	""	0
+"Translation inhibitors in chronically activated PDGFRA cells"	-Inf	0.636820547946559	"Translation inhibitors in chronically activated PDGFRA cells"	""	0
+"Urea cycle and related diseases"	-Inf	1	"Urea cycle and related diseases"	""	0
+"Neurodegeneration with brain iron accumulation NBIA subtypes pathway"	-Inf	0.633051901537126	"Neurodegeneration with brain iron accumulation NBIA subtypes pathway"	""	0
+"Cancer immunotherapy by CTLA4 blockade"	-Inf	1	"Cancer immunotherapy by CTLA4 blockade"	""	0
+"Biomarkers for urea cycle disorders"	-Inf	1	"Biomarkers for urea cycle disorders"	""	0
+"Biomarkers for pyrimidine metabolism disorders"	-Inf	1	"Biomarkers for pyrimidine metabolism disorders"	""	0
+"Cancer immunotherapy by PD 1 blockade"	-Inf	1	"Cancer immunotherapy by PD 1 blockade"	""	0
+"Metabolism of alpha linolenic acid"	-Inf	1	"Metabolism of alpha linolenic acid"	""	0
+"Major receptors targeted by epinephrine and norepinephrine"	1.18854067960966	0.354804426410047	"Major receptors targeted by epinephrine and norepinephrine"	"196883"	1
+"Urea cycle and associated pathways"	-Inf	1	"Urea cycle and associated pathways"	""	0
+"Aerobic glycolysis"	-Inf	1	"Aerobic glycolysis"	""	0
+"Measles virus infection"	-1.11524006856744	0.589917161593409	"Measles virus infection"	"81607;3551"	2
+"Tryptophan metabolism"	-Inf	1	"Tryptophan metabolism"	""	0
+"Cytosolic DNA sensing pathway"	-1.18649875173727	0.724410208773096	"Cytosolic DNA sensing pathway"	"3551"	1
+"Joubert syndrome"	0.281650084001141	0.461263133753558	"Joubert syndrome"	"2316;51199;22897"	3
+"22q11 2 copy number variation syndrome"	-Inf	0.0515580616124627	"22q11 2 copy number variation syndrome"	""	0
+"Small cell lung cancer"	-0.497959847573559	1	"Small cell lung cancer"	"7186;3551"	2
+"Gastrin signaling pathway"	-1.94074233733531	0.377455880258428	"Gastrin signaling pathway"	"3551"	1
+"DNA replication"	0.796223256830899	0.314029045099549	"DNA replication"	"23649;5427"	2
+"Amino acid metabolism pathway excerpt histidine catabolism extension"	-Inf	1	"Amino acid metabolism pathway excerpt histidine catabolism extension"	""	0
+"Hepatitis B infection"	-0.525704838056463	1	"Hepatitis B infection"	"3339;5600;5582;3551"	4
+"Male infertility"	-1.34284078090665	0.442312310577252	"Male infertility"	"27030;9985"	2
+"Head and neck squamous cell carcinoma"	-1.11524006856744	0.724410208773096	"Head and neck squamous cell carcinoma"	"253260"	1
+"Melanoma"	-Inf	0.265463955371778	"Melanoma"	""	0
+"Leucine isoleucine and valine metabolism"	-Inf	1	"Leucine isoleucine and valine metabolism"	""	0
+"Serine metabolism"	-Inf	1	"Serine metabolism"	""	0
+"Vitamin D sensitive calcium signaling in depression"	0.633951827932022	0.263715346688505	"Vitamin D sensitive calcium signaling in depression"	"2906;23135"	2
+"Pathways of nucleic acid metabolism and innate immune sensing"	-Inf	1	"Pathways of nucleic acid metabolism and innate immune sensing"	""	0
+"Cholesterol metabolism with Bloch and Kandutsch Russell pathways"	-Inf	0.638952030816827	"Cholesterol metabolism with Bloch and Kandutsch Russell pathways"	""	0
+"Eicosanoid metabolism via cyclooxygenases COX "	-Inf	1	"Eicosanoid metabolism via cyclooxygenases COX "	""	0
+"Eicosanoid metabolism via cytochrome P450 monooxygenases pathway"	-Inf	1	"Eicosanoid metabolism via cytochrome P450 monooxygenases pathway"	""	0
+"Eicosanoid metabolism via lipooxygenases LOX "	-Inf	1	"Eicosanoid metabolism via lipooxygenases LOX "	""	0
+"Glycerolipids and glycerophospholipids"	-Inf	1	"Glycerolipids and glycerophospholipids"	""	0
+"Omega 3 omega 6 fatty acid synthesis"	-Inf	1	"Omega 3 omega 6 fatty acid synthesis"	""	0
+"Omega 9 fatty acid synthesis"	-Inf	1	"Omega 9 fatty acid synthesis"	""	0
+"Sphingolipid metabolism overview"	-Inf	1	"Sphingolipid metabolism overview"	""	0
+"Sphingolipid metabolism integrated pathway"	-Inf	1	"Sphingolipid metabolism integrated pathway"	""	0
+"Endochondral ossification"	-Inf	0.418720609687108	"Endochondral ossification"	""	0
+"Ketogenesis and ketolysis"	-Inf	1	"Ketogenesis and ketolysis"	""	0
+"Thyroid hormones production and peripheral downstream signaling effects"	-Inf	0.183733469865514	"Thyroid hormones production and peripheral downstream signaling effects"	""	0
+"Netrin UNC5B signaling pathway"	-Inf	0.404879291240191	"Netrin UNC5B signaling pathway"	""	0
+"HIPK2 in kidney fibrosis"	-Inf	1	"HIPK2 in kidney fibrosis"	""	0
+"Base excision repair"	0.830988674991576	0.203509187095356	"Base excision repair"	"5427;3978"	2
+"Nucleotide excision repair"	1.18854067960966	0.114959624383982	"Nucleotide excision repair"	"5427;3978;2968"	3
+"IL 18 signaling pathway"	-0.877548510848113	1	"IL 18 signaling pathway"	"3551"	1
+"Renin angiotensin aldosterone system RAAS "	-Inf	0.633051901537126	"Renin angiotensin aldosterone system RAAS "	""	0
+"Nephrotic syndrome"	-Inf	0.634850321008739	"Nephrotic syndrome"	""	0
+"PKC gamma calcium signaling pathway in ataxia"	0.729109060972362	0.452691158143295	"PKC gamma calcium signaling pathway in ataxia"	"5582"	1
+"FGFR3 signaling in chondrocyte proliferation and terminal differentiation"	1.33055968448209	0.164360981553223	"FGFR3 signaling in chondrocyte proliferation and terminal differentiation"	"5600;4882"	2
+"Cytoplasmic ribosomal proteins"	-Inf	0.177880661519319	"Cytoplasmic ribosomal proteins"	""	0
+"Proteoglycan biosynthesis"	1.01861567816735	0.389230422937407	"Proteoglycan biosynthesis"	"26229"	1
+"Somitogenesis in the context of spondylocostal dysostosis"	-Inf	1	"Somitogenesis in the context of spondylocostal dysostosis"	""	0
+"Type I collagen synthesis in the context of osteogenesis imperfecta"	-Inf	1	"Type I collagen synthesis in the context of osteogenesis imperfecta"	""	0
+"Osteoblast differentiation and related diseases"	-1.11524006856744	0.773290613144872	"Osteoblast differentiation and related diseases"	"5600;5582"	2
+"Autosomal recessive osteopetrosis pathways"	1.72910906097236	0.260051293505959	"Autosomal recessive osteopetrosis pathways"	"3551"	1
+"Multiple epiphyseal dysplasia and pseudoachondroplasia genes"	-Inf	1	"Multiple epiphyseal dysplasia and pseudoachondroplasia genes"	""	0
+"FGF23 signaling in hypophosphatemic rickets and related disorders"	0.381185757552055	0.467502351028592	"FGF23 signaling in hypophosphatemic rickets and related disorders"	"142680"	1
+"Purine metabolism"	-Inf	1	"Purine metabolism"	""	0
+"Downregulation of ACE2 by SARS CoV 2 spike protein"	-Inf	1	"Downregulation of ACE2 by SARS CoV 2 spike protein"	""	0
+"Ciliopathies"	-0.777243605052428	0.820166953755385	"Ciliopathies"	"57560;11020;374654;22897"	4
+"Cholesterol biosynthesis with skeletal dysplasias"	-Inf	1	"Cholesterol biosynthesis with skeletal dysplasias"	""	0
+"EGFR tyrosine kinase inhibitor resistance"	-1.3964218211115	0.729500696302098	"EGFR tyrosine kinase inhibitor resistance"	"5582"	1
+"Endochondral ossification with skeletal dysplasias"	-Inf	0.418720609687108	"Endochondral ossification with skeletal dysplasias"	""	0
+"Insulin signaling"	-0.575224973900262	0.802911972152287	"Insulin signaling"	"1326;5600;3551"	3
+"Somatic sex determination"	-Inf	1	"Somatic sex determination"	""	0
+"Glycosaminoglycan degradation"	-0.566346822553809	0.37225235166166	"Glycosaminoglycan degradation"	"3425"	1
+"TGF beta receptor signaling in skeletal dysplasias"	-0.855853439748794	1	"TGF beta receptor signaling in skeletal dysplasias"	"4054"	1
+"Conversion of angiotensinogen to angiotensin II "	-Inf	1	"Conversion of angiotensinogen to angiotensin II "	""	0
+"Genes controlling nephrogenesis"	-Inf	0.633051901537126	"Genes controlling nephrogenesis"	""	0
+"mBDNF and proBDNF regulation of GABA neurotransmission"	-0.169011325008424	1	"mBDNF and proBDNF regulation of GABA neurotransmission"	"2564"	1
+"GDNF RET signaling axis"	0.603578178888503	0.467502351028592	"GDNF RET signaling axis"	"11020"	1
+"Regucalcin in proximal tubule epithelial kidney cells"	-Inf	1	"Regucalcin in proximal tubule epithelial kidney cells"	""	0
+"Mammalian disorder of sexual development"	0.188540679609659	0.495938057055114	"Mammalian disorder of sexual development"	"5600"	1
+"Influence of laminopathies on Wnt signaling"	-Inf	0.626260545679217	"Influence of laminopathies on Wnt signaling"	""	0
+"SARS CoV 2 and COVID 19 pathway"	-Inf	1	"SARS CoV 2 and COVID 19 pathway"	""	0
+"Linoleic acid metabolism affected by SARS CoV 2"	-Inf	1	"Linoleic acid metabolism affected by SARS CoV 2"	""	0
+"Intracellular trafficking proteins involved in CMT neuropathy"	-0.0209126860192903	0.522861501435776	"Intracellular trafficking proteins involved in CMT neuropathy"	"90678"	1
+"Hijack of ubiquitination by SARS CoV 2"	-Inf	1	"Hijack of ubiquitination by SARS CoV 2"	""	0
+"Endoplasmic reticulum stress response in coronavirus infection"	-Inf	0.636820547946559	"Endoplasmic reticulum stress response in coronavirus infection"	""	0
+"Host pathogen interaction of human coronaviruses autophagy"	-Inf	1	"Host pathogen interaction of human coronaviruses autophagy"	""	0
+"Host pathogen interaction of human coronaviruses apoptosis"	0.664978723552647	0.452691158143295	"Host pathogen interaction of human coronaviruses apoptosis"	"5600"	1
+"Type I interferon induction and signaling during SARS CoV 2 infection"	-Inf	1	"Type I interferon induction and signaling during SARS CoV 2 infection"	""	0
+"Kisspeptin kisspeptin receptor system in the ovary"	-0.0968615392525889	1	"Kisspeptin kisspeptin receptor system in the ovary"	"5582"	1
+"MAP3K1 role in promoting and blocking gonadal determination"	0.381185757552055	0.37225235166166	"MAP3K1 role in promoting and blocking gonadal determination"	"5600"	1
+"Peroxiredoxin 2 induced ovarian failure"	-Inf	1	"Peroxiredoxin 2 induced ovarian failure"	""	0
+"CAMKK2 pathway"	0.0186156781673468	0.595338301207528	"CAMKK2 pathway"	"8874"	1
+"Disruption of postsynaptic signaling by CNV"	-0.669440315517913	0.595338301207528	"Disruption of postsynaptic signaling by CNV"	"2906"	1
+"Activation of NLRP3 inflammasome by SARS CoV 2"	-Inf	1	"Activation of NLRP3 inflammasome by SARS CoV 2"	""	0
+"Host pathogen interaction of human coronaviruses MAPK signaling"	-0.203776743169101	1	"Host pathogen interaction of human coronaviruses MAPK signaling"	"5600"	1
+"Overlap between signal transduction pathways contributing to LMNA laminopathies"	-Inf	0.407946147714057	"Overlap between signal transduction pathways contributing to LMNA laminopathies"	""	0
+"Host pathogen interaction of human coronaviruses interferon induction"	0.144146560251206	0.595338301207528	"Host pathogen interaction of human coronaviruses interferon induction"	"3551"	1
+"SARS CoV 2 and ACE2 receptor molecular mechanisms"	-Inf	1	"SARS CoV 2 and ACE2 receptor molecular mechanisms"	""	0
+"Pathogenesis of SARS CoV 2 mediated by nsp9 nsp10 complex"	-Inf	1	"Pathogenesis of SARS CoV 2 mediated by nsp9 nsp10 complex"	""	0
+"COVID 19 adverse outcome pathway"	-Inf	1	"COVID 19 adverse outcome pathway"	""	0
+"IL 2 signaling pathway"	-Inf	0.626260545679217	"IL 2 signaling pathway"	""	0
+"Purinergic signaling"	-Inf	1	"Purinergic signaling"	""	0
+"LDLRAD4 and what we know about it"	-Inf	1	"LDLRAD4 and what we know about it"	""	0
+"1q21 1 copy number variation syndrome"	0.188540679609659	0.522861501435776	"1q21 1 copy number variation syndrome"	"90780"	1
+"3q29 copy number variation syndrome"	-Inf	0.421157697119052	"3q29 copy number variation syndrome"	""	0
+"SARS coronavirus and innate immunity"	-Inf	1	"SARS coronavirus and innate immunity"	""	0
+"Proximal tubule transport"	0.257803342046773	0.667110558312308	"Proximal tubule transport"	"65010;142680"	2
+"Cellular proteostasis"	-Inf	1	"Cellular proteostasis"	""	0
+"Neuroinflammation"	-Inf	1	"Neuroinflammation"	""	0
+"Mitochondrial complex II assembly"	-Inf	1	"Mitochondrial complex II assembly"	""	0
+"Mitochondrial complex III assembly"	-Inf	1	"Mitochondrial complex III assembly"	""	0
+"Mitochondrial complex IV assembly"	-Inf	1	"Mitochondrial complex IV assembly"	""	0
+"Autophagy"	-Inf	1	"Autophagy"	""	0
+"Unfolded protein response"	-Inf	1	"Unfolded protein response"	""	0
+"COVID 19 thrombosis and anticoagulation"	-Inf	1	"COVID 19 thrombosis and anticoagulation"	""	0
+"MAPK pathway in congenital thyroid cancer"	-Inf	1	"MAPK pathway in congenital thyroid cancer"	""	0
+"Direct reversal repair"	-Inf	1	"Direct reversal repair"	""	0
+"7q11 23 copy number variation syndrome"	-1.76565563077722	0.373121272522213	"7q11 23 copy number variation syndrome"	"10514"	1
+"Perturbations to host cell autophagy induced by SARS CoV 2 proteins"	-Inf	1	"Perturbations to host cell autophagy induced by SARS CoV 2 proteins"	""	0
+"15q11 2 copy number variation syndrome"	1.8666125847223	0.218379703294344	"15q11 2 copy number variation syndrome"	"10426"	1
+"GPR143 in melanocytes and retinal pigment epithelium cells"	-0.0593868338339261	0.560585221086117	"GPR143 in melanocytes and retinal pigment epithelium cells"	"196883"	1
+"15q13 3 copy number variation syndrome"	-Inf	1	"15q13 3 copy number variation syndrome"	""	0
+"DNA repair pathways full network"	-0.610201112143237	1	"DNA repair pathways full network"	"5427;3978;2968"	3
+"Nitric oxide metabolism in cystic fibrosis"	1.48810096146857	0.299510294678952	"Nitric oxide metabolism in cystic fibrosis"	"3276"	1
+"16p11 2 proximal deletion syndrome"	-1.18649875173727	0.724694544888283	"16p11 2 proximal deletion syndrome"	"7186"	1
+"16p11 2 distal deletion syndrome"	1.01861567816735	0.223459322317232	"16p11 2 distal deletion syndrome"	"3276;7186"	2
+"Steroid biosynthesis"	-Inf	1	"Steroid biosynthesis"	""	0
+"STING pathway in Kawasaki like disease and COVID 19"	0.188540679609659	0.437469831094306	"STING pathway in Kawasaki like disease and COVID 19"	"3551"	1
+"Airway smooth muscle cell contraction"	-Inf	1	"Airway smooth muscle cell contraction"	""	0
+"p53 transcriptional gene network"	-Inf	0.116255094702883	"p53 transcriptional gene network"	""	0
+"Fluoroacetic acid toxicity"	-Inf	1	"Fluoroacetic acid toxicity"	""	0
+"RAS and bradykinin pathways in COVID 19"	-Inf	1	"RAS and bradykinin pathways in COVID 19"	""	0
+"Urea cycle and metabolism of amino groups"	-Inf	1	"Urea cycle and metabolism of amino groups"	""	0
+"Galanin receptor pathway"	-Inf	1	"Galanin receptor pathway"	""	0
+"Phosphoinositides metabolism"	-Inf	0.643658749728168	"Phosphoinositides metabolism"	""	0
+"Glycogen synthesis and degradation"	-Inf	0.62780372576023	"Glycogen synthesis and degradation"	""	0
+"GPCRs class C metabotropic glutamate pheromone"	-Inf	1	"GPCRs class C metabotropic glutamate pheromone"	""	0
+"Proline and hydroxyproline pathways"	-Inf	1	"Proline and hydroxyproline pathways"	""	0
+"nsp1 from SARS CoV 2 inhibits translation initiation in the host cell"	-Inf	1	"nsp1 from SARS CoV 2 inhibits translation initiation in the host cell"	""	0
+"Glycine metabolism including IMDs"	-Inf	1	"Glycine metabolism including IMDs"	""	0
+"Amino acid transport defects IEMs "	-Inf	1	"Amino acid transport defects IEMs "	""	0
+"Ethylmalonic encephalopathy"	-Inf	1	"Ethylmalonic encephalopathy"	""	0
+"Biotin metabolism including IMDs"	-Inf	1	"Biotin metabolism including IMDs"	""	0
+"Genes associated with the development of rheumatoid arthritis"	-Inf	1	"Genes associated with the development of rheumatoid arthritis"	""	0
+"Angiotensin II receptor type 1 pathway"	-Inf	1	"Angiotensin II receptor type 1 pathway"	""	0
+"Riboflavin and CoQ disorders"	-Inf	1	"Riboflavin and CoQ disorders"	""	0
+"Mitochondrial immune response to SARS CoV 2"	-Inf	1	"Mitochondrial immune response to SARS CoV 2"	""	0
+"SARS CoV 2 innate immunity evasion and cell specific immune response"	0.451575085443453	0.263345812643407	"SARS CoV 2 innate immunity evasion and cell specific immune response"	"1437;7020;7186"	3
+"Pentose phosphate pathway in senescent cells"	-Inf	1	"Pentose phosphate pathway in senescent cells"	""	0
+"Kynurenine pathway and links to cell senescence"	-Inf	1	"Kynurenine pathway and links to cell senescence"	""	0
+"NAD metabolism in oncogene induced senescence and mitochondrial dysfunction associated senescence"	-Inf	1	"NAD metabolism in oncogene induced senescence and mitochondrial dysfunction associated senescence"	""	0
+"Glycolysis in senescence"	-Inf	1	"Glycolysis in senescence"	""	0
+"TCA cycle in senescence"	1.8666125847223	0.239499634109527	"TCA cycle in senescence"	"5160"	1
+"Nephrogenesis"	-Inf	1	"Nephrogenesis"	""	0
+"Development of ureteric collection system"	-Inf	0.412463182577856	"Development of ureteric collection system"	""	0
+"Burn wound healing"	-1.18649875173727	0.724502319445214	"Burn wound healing"	"5127"	1
+"Fatty acid transporters"	-Inf	1	"Fatty acid transporters"	""	0
+"FOXP3 in COVID 19"	-Inf	1	"FOXP3 in COVID 19"	""	0
+"7 oxo C and 7 beta HC pathways"	-Inf	1	"7 oxo C and 7 beta HC pathways"	""	0
+"SARS CoV 2 altering angiogenesis via NRP1"	-Inf	1	"SARS CoV 2 altering angiogenesis via NRP1"	""	0
+"FOXA2 pathway"	-Inf	1	"FOXA2 pathway"	""	0
+"Modulators of TCR signaling and T cell activation"	0.796223256830899	0.227080217785383	"Modulators of TCR signaling and T cell activation"	"1326;7409;3551"	3
+"Kallmann syndrome"	0.0592576626646929	0.481914413935727	"Kallmann syndrome"	"55636"	1
+"Soluble ACE2 mediated cell entry of SARS CoV 2"	-Inf	1	"Soluble ACE2 mediated cell entry of SARS CoV 2"	""	0
+"T cell modulation in pancreatic cancer"	-Inf	0.636820547946559	"T cell modulation in pancreatic cancer"	""	0
+"Neuroinflammation and glutamatergic signaling"	-0.981384321832653	1	"Neuroinflammation and glutamatergic signaling"	"2906;5160;5582"	3
+"Vasopressin regulated water reabsorption"	-Inf	0.633051901537126	"Vasopressin regulated water reabsorption"	""	0
+"Pleural mesothelioma"	-2.00375213486111	0.0143648980551306	"Pleural mesothelioma"	"23043;9869;1437;7186"	4
+"Prostaglandin signaling"	-Inf	1	"Prostaglandin signaling"	""	0
+"Kinin Kallikrein pathway"	-Inf	1	"Kinin Kallikrein pathway"	""	0
+"Complement system in neuronal development and plasticity"	-Inf	0.121663775242184	"Complement system in neuronal development and plasticity"	""	0
+"Interactions of natural killer cells in pancreatic cancer"	-0.203776743169101	0.535781322461251	"Interactions of natural killer cells in pancreatic cancer"	"1437"	1
+"Opioid receptor pathways"	-Inf	1	"Opioid receptor pathways"	""	0
+"Orexin receptor pathway"	-Inf	0.177880661519319	"Orexin receptor pathway"	""	0
+"Overview of proinflammatory and profibrotic mediators"	-2.15130932327497	0.267939048715281	"Overview of proinflammatory and profibrotic mediators"	"1437"	1
+"CCL18 signaling pathway"	-Inf	1	"CCL18 signaling pathway"	""	0
+"T cell activation SARS CoV 2"	-0.706277083698284	1	"T cell activation SARS CoV 2"	"253260;3551"	2
+"Regulation of actin cytoskeleton"	-0.548424914556547	0.800303422137864	"Regulation of actin cytoskeleton"	"8874;7409;9138"	3
+"Congenital generalized lipodystrophy"	-Inf	1	"Congenital generalized lipodystrophy"	""	0
+"Familial partial lipodystrophy"	-Inf	1	"Familial partial lipodystrophy"	""	0
+"Progeria associated lipodystrophy"	-Inf	1	"Progeria associated lipodystrophy"	""	0
+"Acquired partial lipodystrophy Barraquer Simons syndrome"	-Inf	1	"Acquired partial lipodystrophy Barraquer Simons syndrome"	""	0
+"Familial hyperlipidemia type 1"	-Inf	1	"Familial hyperlipidemia type 1"	""	0
+"Familial hyperlipidemia type 2"	-Inf	1	"Familial hyperlipidemia type 2"	""	0
+"Familial hyperlipidemia type 3"	-Inf	1	"Familial hyperlipidemia type 3"	""	0
+"Familial hyperlipidemia type 4"	0.488100961468567	0.452691158143295	"Familial hyperlipidemia type 4"	"84532"	1
+"Familial hyperlipidemia type 5"	-Inf	1	"Familial hyperlipidemia type 5"	""	0
+"Antiviral and anti inflammatory effects of Nrf2 on SARS CoV 2 pathway"	-0.169011325008424	0.584069241241156	"Antiviral and anti inflammatory effects of Nrf2 on SARS CoV 2 pathway"	"3551"	1
+"Nucleotide excision repair in xeroderma pigmentosum "	0.249941224273803	0.457292230690901	"Nucleotide excision repair in xeroderma pigmentosum "	"5427;3978;2968"	3
+"Network map of SARS CoV 2 signaling pathway"	-2.97133065716873	0.0320744008240034	"Network map of SARS CoV 2 signaling pathway"	"7186"	1
+"SARS CoV 2 B 1 1 7 variant antagonises innate immune activation"	-Inf	1	"SARS CoV 2 B 1 1 7 variant antagonises innate immune activation"	""	0
+"Cohesin complex Cornelia de Lange syndrome"	-1.73032255766494	0.606303327884486	"Cohesin complex Cornelia de Lange syndrome"	"9985"	1
+"SMC1 SMC3 role in DNA damage Cornelia de Lange Syndrome"	-Inf	1	"SMC1 SMC3 role in DNA damage Cornelia de Lange Syndrome"	""	0
+"NIPBL role in DNA damage Cornelia de Lange syndrome"	-Inf	1	"NIPBL role in DNA damage Cornelia de Lange syndrome"	""	0
+"Inclusion body myositis"	-Inf	1	"Inclusion body myositis"	""	0
+"Sphingolipid metabolism in senescence"	-Inf	1	"Sphingolipid metabolism in senescence"	""	0
+"Prostaglandin and leukotriene metabolism in senescence "	-1.15130932327497	0.606303327884486	"Prostaglandin and leukotriene metabolism in senescence "	"5600"	1
+"Mitochondrial fatty acid oxidation disorders"	-Inf	1	"Mitochondrial fatty acid oxidation disorders"	""	0
+"Alzheimer 39 s disease"	-1.44566534013135	0.123535664019011	"Alzheimer 39 s disease"	"2906;7186;3551"	3
+"Th17 cell differentiation pathway"	-0.381314928721288	0.713874644451936	"Th17 cell differentiation pathway"	"5187;3551"	2
+"Non classical role of vitamin D"	-Inf	1	"Non classical role of vitamin D"	""	0
+"ALA oxylipin metabolism"	-Inf	1	"ALA oxylipin metabolism"	""	0
+"Linoleic acid oxylipin metabolism"	-Inf	1	"Linoleic acid oxylipin metabolism"	""	0
+"Calcium mediated T cell apoptosis involved in inclusion body myositis"	-Inf	1	"Calcium mediated T cell apoptosis involved in inclusion body myositis"	""	0
+"GDNF signaling"	-Inf	1	"GDNF signaling"	""	0
+"NRP1 triggered signaling pathways in pancreatic cancer "	-0.694102369752182	1	"NRP1 triggered signaling pathways in pancreatic cancer "	"55630"	1
+"COVID 19 structural coverage map"	0.488100961468567	0.509583704403088	"COVID 19 structural coverage map"	"3508"	1
+"Lung pathology of COVID 19"	0.729109060972362	0.42182706366717	"Lung pathology of COVID 19"	"1437"	1
+"Complement mediated inflammation of pulmonary alveolus in COVID 19 hypothetical pathway "	-Inf	1	"Complement mediated inflammation of pulmonary alveolus in COVID 19 hypothetical pathway "	""	0
+"Lipid metabolism in senescent cells"	-Inf	1	"Lipid metabolism in senescent cells"	""	0
+"Spina bifida"	-Inf	1	"Spina bifida"	""	0
+"Iron sulfur cluster biogenesis"	0.866612584722297	0.336873702456813	"Iron sulfur cluster biogenesis"	"2232"	1
+"N glycan biosynthesis"	-Inf	0.407946147714057	"N glycan biosynthesis"	""	0
+"Docosahexaenoic acid oxylipin metabolism"	-Inf	1	"Docosahexaenoic acid oxylipin metabolism"	""	0
+"Arachidonic acid AA ARA oxylipin metabolism"	-Inf	1	"Arachidonic acid AA ARA oxylipin metabolism"	""	0
+"SARS CoV 2 replication organelle formation"	-Inf	1	"SARS CoV 2 replication organelle formation"	""	0
+"Urotensin II mediated signaling pathway"	-1.74219665795323	1	"Urotensin II mediated signaling pathway"	"3551"	1
+"Hypertrophy model"	-Inf	1	"Hypertrophy model"	""	0
+"Glyoxylate metabolism"	-Inf	1	"Glyoxylate metabolism"	""	0
+"Hemesynthesis defects and porphyrias"	-Inf	1	"Hemesynthesis defects and porphyrias"	""	0
+"Leukotriene metabolic pathway"	-Inf	1	"Leukotriene metabolic pathway"	""	0
+"Iron metabolism disorders"	-Inf	1	"Iron metabolism disorders"	""	0
+"Disorders of galactose metabolism "	1.48810096146857	0.299510294678952	"Disorders of galactose metabolism "	"2592"	1
+"Ulcerative colitis signaling"	-Inf	1	"Ulcerative colitis signaling"	""	0
+"Disorders in ketone body synthesis"	-Inf	1	"Disorders in ketone body synthesis"	""	0
+"Disorders of bile acid synthesis and biliary transport"	-Inf	1	"Disorders of bile acid synthesis and biliary transport"	""	0
+"Disorders of fructose metabolism"	-Inf	1	"Disorders of fructose metabolism"	""	0
+"Biosynthesis and turnover of 1 deoxy sphingoid bases"	-Inf	1	"Biosynthesis and turnover of 1 deoxy sphingoid bases"	""	0
+"DYRK1A involvement regarding cell proliferation in brain development"	-Inf	0.416454231638017	"DYRK1A involvement regarding cell proliferation in brain development"	""	0
+"Roles of ceramides in development of insulin resistance"	-Inf	1	"Roles of ceramides in development of insulin resistance"	""	0
+"Pro survival signaling of neuroprotectin D1"	0.544684489834935	0.336873702456813	"Pro survival signaling of neuroprotectin D1"	"7186"	1
+"SARS CoV 2 mitochondrial chronic oxidative stress and endothelial dysfunction"	-Inf	1	"SARS CoV 2 mitochondrial chronic oxidative stress and endothelial dysfunction"	""	0
+"Vitamin K metabolism and activation of dependent proteins"	-Inf	1	"Vitamin K metabolism and activation of dependent proteins"	""	0
+"mRNA vaccine activation of dendritic cell and induction of IFN 1"	-Inf	1	"mRNA vaccine activation of dendritic cell and induction of IFN 1"	""	0
+"Copper metabolism"	-Inf	1	"Copper metabolism"	""	0
+"Creatine pathway"	-Inf	1	"Creatine pathway"	""	0
+"Resolvin E1 and resolvin D1 signaling pathways promoting inflammation resolution"	-Inf	1	"Resolvin E1 and resolvin D1 signaling pathways promoting inflammation resolution"	""	0
+"Modulation of PI3K Akt mTOR signaling by bioactive sphingolipids"	-Inf	1	"Modulation of PI3K Akt mTOR signaling by bioactive sphingolipids"	""	0
+"Cholesterol synthesis disorders"	-Inf	1	"Cholesterol synthesis disorders"	""	0
+"Synthesis of ceramides and 1 deoxyceramides"	-Inf	1	"Synthesis of ceramides and 1 deoxyceramides"	""	0
+"Disorders in ketolysis"	-Inf	1	"Disorders in ketolysis"	""	0
+"Inflammatory bowel disease signaling"	-Inf	0.631436299139494	"Inflammatory bowel disease signaling"	""	0
+"PtdIns 4 5 P2 in cytokinesis pathway"	-Inf	1	"PtdIns 4 5 P2 in cytokinesis pathway"	""	0
+"Dravet syndrome"	1.18854067960966	0.174026333747923	"Dravet syndrome"	"253260;5600"	2
+"Alstrom syndrome"	-0.133387415277703	0.606303327884486	"Alstrom syndrome"	"11020"	1
+"Clock controlled autophagy in bone metabolism"	-1.46967080314214	0.726408361250709	"Clock controlled autophagy in bone metabolism"	"5187"	1
+"Amino acid conjugation of benzoic acid"	-Inf	1	"Amino acid conjugation of benzoic acid"	""	0
+"Glucose metabolism in triple negative breast cancer cells"	-Inf	1	"Glucose metabolism in triple negative breast cancer cells"	""	0
+"Amino acid metabolism in triple negative breast cancer cells"	-Inf	1	"Amino acid metabolism in triple negative breast cancer cells"	""	0
+"Warburg effect modulated by deubiquitinating enzymes and their substrates"	-Inf	1	"Warburg effect modulated by deubiquitinating enzymes and their substrates"	""	0
+"Extrafollicular and follicular B cell activation by SARS CoV 2"	-Inf	0.272856452454666	"Extrafollicular and follicular B cell activation by SARS CoV 2"	""	0
+"Diet dependent trimethylamine trimethylamine N oxide metabolism "	-Inf	1	"Diet dependent trimethylamine trimethylamine N oxide metabolism "	""	0
+"Metabolic reprogramming in pancreatic cancer"	-0.669440315517913	1	"Metabolic reprogramming in pancreatic cancer"	"5160"	1
+"2q11 2 copy number variation syndrome"	-0.0593868338339261	0.595338301207528	"2q11 2 copy number variation syndrome"	"54910"	1
+"2q13 copy number variation syndrome"	-1.04027801088622	1	"2q13 copy number variation syndrome"	"1437"	1
+"2q21 1 copy number variation syndrome"	-Inf	1	"2q21 1 copy number variation syndrome"	""	0
+"2q37 copy number variation syndrome"	-0.610201112143237	1	"2q37 copy number variation syndrome"	"80895;23192;8527"	3
+"Nephrotoxcicity adverse outcome pathway"	-Inf	1	"Nephrotoxcicity adverse outcome pathway"	""	0
+"Hippocampal synaptogenesis and neurogenesis"	-Inf	1	"Hippocampal synaptogenesis and neurogenesis"	""	0
+"Arsenic metabolism and reactive oxygen species generation"	-Inf	1	"Arsenic metabolism and reactive oxygen species generation"	""	0
+"Bardet Biedl syndrome"	0.696687583279984	0.302504035888414	"Bardet Biedl syndrome"	"57560;11020;374654;22897"	4
+"Estradiol regulation in porto sinusoidal vascular disease"	-Inf	1	"Estradiol regulation in porto sinusoidal vascular disease"	""	0
+"Markers of kidney cell lineage"	-Inf	0.410753714945588	"Markers of kidney cell lineage"	""	0
+"Cholestasis"	-Inf	1	"Cholestasis"	""	0
+"Lac Phe pathway"	-Inf	1	"Lac Phe pathway"	""	0
+"G13 signaling pathway"	-0.0968615392525889	1	"G13 signaling pathway"	"9138"	1
+"Mitochondrial beta oxidation"	-Inf	1	"Mitochondrial beta oxidation"	""	0
+"COVID 19 and endothelial cell senescence"	-Inf	1	"COVID 19 and endothelial cell senescence"	""	0
+"Role of ROS in COVID 19 endothelial dysfunction"	-Inf	1	"Role of ROS in COVID 19 endothelial dysfunction"	""	0
+"Genetic causes of porto sinusoidal vascular disease"	-Inf	0.626260545679217	"Genetic causes of porto sinusoidal vascular disease"	""	0
+"LDL influence on CD14 and TLR4"	0.0592576626646929	0.467502351028592	"LDL influence on CD14 and TLR4"	"5600"	1
+"Effect of intestinal microbiome on anticoagulant response of vitamin K antagonists"	-Inf	1	"Effect of intestinal microbiome on anticoagulant response of vitamin K antagonists"	""	0
+"Ether lipid biosynthesis"	0.729109060972362	0.42182706366717	"Ether lipid biosynthesis"	"5189"	1
+"Estrogen metabolism"	-Inf	0.62627516372022	"Estrogen metabolism"	""	0
+"Steroid hormone precursor biosynthesis"	-Inf	1	"Steroid hormone precursor biosynthesis"	""	0
+"Mineralocorticoid biosynthesis"	-Inf	1	"Mineralocorticoid biosynthesis"	""	0
+"Acetylcholine synthesis"	2.38118575755206	0.174372026711009	"Acetylcholine synthesis"	"5160"	1
+"Glucocorticoid biosynthesis"	-Inf	1	"Glucocorticoid biosynthesis"	""	0
+"Chronic hyperglycemia impairment of neuron function"	-0.335021276447353	1	"Chronic hyperglycemia impairment of neuron function"	"5582"	1
+"Cell interactions of the pancreatic cancer microenvironment"	0.188540679609659	0.509583704403088	"Cell interactions of the pancreatic cancer microenvironment"	"1437"	1
+"Immune infiltration in pancreatic cancer"	-1.07824586108524	1	"Immune infiltration in pancreatic cancer"	"1437"	1
+"17q12 copy number variation syndrome"	-1.47679523757552	1	"17q12 copy number variation syndrome"	"10948;8557"	2
+"Glycosphingolipid metabolism"	-Inf	1	"Glycosphingolipid metabolism"	""	0
+"Acute myeloid leukemia"	-0.0782458610852421	0.710107844456994	"Acute myeloid leukemia"	"1437;3551"	2
+"Sildenafil treatment"	0.664978723552647	0.467502351028592	"Sildenafil treatment"	"5142"	1
+"Ganglio series sphingolipid metabolism"	-Inf	1	"Ganglio series sphingolipid metabolism"	""	0
+"ID signaling pathway"	-Inf	1	"ID signaling pathway"	""	0
+"Cytokines and inflammatory response"	-0.91998377716851	0.509583704403088	"Cytokines and inflammatory response"	"1437"	1
+"TROP2 regulatory signaling"	-Inf	0.634850321008739	"TROP2 regulatory signaling"	""	0
+"Lacto series sphingolipid metabolism"	-Inf	1	"Lacto series sphingolipid metabolism"	""	0
+"Cholesterol metabolism"	-2.31925396058904	1	"Cholesterol metabolism"	"10948"	1
+"DNA mismatch repair"	-0.426169164505549	0.126844914666751	"DNA mismatch repair"	"5427;3978"	2
+"Isoglobo series sphingolipids"	-Inf	1	"Isoglobo series sphingolipids"	""	0
+"Metabolic pathways of fibroblasts"	-Inf	1	"Metabolic pathways of fibroblasts"	""	0
+"Carnosine metabolism of glial cells"	-Inf	1	"Carnosine metabolism of glial cells"	""	0
+"Lactate shuttle in glial cells"	-Inf	1	"Lactate shuttle in glial cells"	""	0
+"Sebaleic acid formation and metabolism"	-Inf	1	"Sebaleic acid formation and metabolism"	""	0
+"Primary ovarian insufficiency"	-2.25440281623907	0.0941735472283921	"Primary ovarian insufficiency"	"2592"	1
+"Female steroid hormones in cardiomyocyte energy metabolism"	-Inf	1	"Female steroid hormones in cardiomyocyte energy metabolism"	""	0
+"Male steroid hormones in cardiomyocyte energy metabolism"	-Inf	1	"Male steroid hormones in cardiomyocyte energy metabolism"	""	0
+"Fatty acids and lipoproteins transport in hepatocytes"	-0.788739243890257	0.616972489224078	"Fatty acids and lipoproteins transport in hepatocytes"	"10948"	1
+"Octadecanoid formation from linoleic acid"	-Inf	1	"Octadecanoid formation from linoleic acid"	""	0
+"Cholesterol biosynthesis pathway in hepatocytes"	-Inf	0.631436299139494	"Cholesterol biosynthesis pathway in hepatocytes"	""	0
+"Autophagy in pancreatic ductal adenocarcinoma"	-Inf	1	"Autophagy in pancreatic ductal adenocarcinoma"	""	0
+"Enterocyte cholesterol metabolism"	-Inf	0.62627516372022	"Enterocyte cholesterol metabolism"	""	0
+"Induction of autophagy and toll like receptor signaling pathways by graphene oxide "	-Inf	1	"Induction of autophagy and toll like receptor signaling pathways by graphene oxide "	""	0
+"Glycolysis and gluconeogenesis"	-0.335021276447353	1	"Glycolysis and gluconeogenesis"	"5160"	1
+"Pathophysiological roles of DUX4 in FSHD1"	-Inf	0.62627516372022	"Pathophysiological roles of DUX4 in FSHD1"	""	0
+"Abnormal calcium handling and its effects on muscle contraction in DMD"	-Inf	1	"Abnormal calcium handling and its effects on muscle contraction in DMD"	""	0
+"Cardiomyocyte signaling pathways converging on titin"	-0.169011325008424	0.595338301207528	"Cardiomyocyte signaling pathways converging on titin"	"8557"	1
+"1p36 copy number variation syndrome"	0.530329196857865	0.327597606143675	"1p36 copy number variation syndrome"	"54587;8764;339451;7186"	4
+"8p23 1 copy number variation syndrome"	-Inf	0.406008016465567	"8p23 1 copy number variation syndrome"	""	0
+"IL 26 signaling pathways"	-0.833827133418795	1	"IL 26 signaling pathways"	"1437"	1
+"11p11 2 copy number variation syndrome "	-0.718349915998859	1	"11p11 2 copy number variation syndrome "	"84680"	1
+"Kleefstra syndrome"	-Inf	1	"Kleefstra syndrome"	""	0
+"10q11 21q11 23 copy number variation syndrome"	-0.788739243890257	1	"10q11 21q11 23 copy number variation syndrome"	"10514"	1
+"Macrophage stimulating protein MSP signaling network map"	-2.45531551016507	0.727793197427534	"Macrophage stimulating protein MSP signaling network map"	"4486"	1
+"Metabolic Epileptic Disorders"	-0.497959847573559	1	"Metabolic Epileptic Disorders"	"5160;48"	2
+"Affected pathways in Duchenne muscular dystrophy"	-Inf	0.269956833274121	"Affected pathways in Duchenne muscular dystrophy"	""	0
+"JAK STAT signaling in the regulation of beta cells"	-Inf	1	"JAK STAT signaling in the regulation of beta cells"	""	0
+"Calcium regulation in cardiac cells"	-1.10608006928197	0.444637020147097	"Calcium regulation in cardiac cells"	"196883;5582"	2
+"KCNQ2 related epilepsies"	-Inf	1	"KCNQ2 related epilepsies"	""	0
+"TAR syndrome"	0.583678621450798	0.241480197199348	"TAR syndrome"	"8764;10401;142680"	3
+"4p16 3 copy number variation"	-Inf	1	"4p16 3 copy number variation"	""	0
+"NF1 copy number variation syndrome "	-2.0111316652267	0.373487195161171	"NF1 copy number variation syndrome "	"5187"	1
+"Rubinstein Taybi syndrome 1"	-Inf	1	"Rubinstein Taybi syndrome 1"	""	0
+"Sulfatase and aromatase pathway"	-Inf	1	"Sulfatase and aromatase pathway"	""	0
+"Involvement of secretase in neurodegenerative diseases"	-Inf	1	"Involvement of secretase in neurodegenerative diseases"	""	0
+"Osteoarthritic chondrocyte hypertrophy"	-Inf	0.646215026706357	"Osteoarthritic chondrocyte hypertrophy"	""	0
+"17p13 3 YWHAE copy number variation"	-Inf	1	"17p13 3 YWHAE copy number variation"	""	0
+"5q35 copy number variation"	-1.77724360505243	0.374343099947415	"5q35 copy number variation"	"23135"	1
+"Smith Magenis and Potocki Lupski syndrome copy number variation"	-0.841206663784393	0.802501372094271	"Smith Magenis and Potocki Lupski syndrome copy number variation"	"57560;11020;5187"	3
+"TGF Smad signaling pathway"	-Inf	1	"TGF Smad signaling pathway"	""	0
+"Growth factors and hormones in beta cell proliferation"	-Inf	1	"Growth factors and hormones in beta cell proliferation"	""	0
+"Pancreatic cancer subtypes"	-Inf	0.641234659590265	"Pancreatic cancer subtypes"	""	0
+"UDP derived sugars synthesis in fibroblasts"	-Inf	1	"UDP derived sugars synthesis in fibroblasts"	""	0
+"Glycosaminoglycan synthesis in fibroblasts"	-0.53937977495354	1	"Glycosaminoglycan synthesis in fibroblasts"	"26229"	1
+"Enterohepatic circulation of bile acids"	-Inf	1	"Enterohepatic circulation of bile acids"	""	0
+"Vitamin A1 and A5 X pathways"	-Inf	1	"Vitamin A1 and A5 X pathways"	""	0
+"NRXN1 deletion syndrome"	1.10107783835932	0.37225235166166	"NRXN1 deletion syndrome"	"2906"	1
+"NPHP1 deletion syndrome"	2.38118575755206	0.0339830401452095	"NPHP1 deletion syndrome"	"2317;2316"	2
+"6q16 copy number variation"	-Inf	1	"6q16 copy number variation"	""	0
+"7q11 23 distal copy number variation"	-Inf	1	"7q11 23 distal copy number variation"	""	0
+"10q22q23 copy number variation"	-Inf	0.421157697119052	"10q22q23 copy number variation"	""	0
+"13q12 or CRYL1 copy number variation "	-Inf	1	"13q12 or CRYL1 copy number variation "	""	0
+"13q12 12 copy number variation"	0.0592576626646929	0.606303327884486	"13q12 12 copy number variation"	"7186"	1
+"15q11q13 copy number variation"	-Inf	0.410753714945588	"15q11q13 copy number variation"	""	0
+"15q25 copy number variation"	-Inf	0.636820547946559	"15q25 copy number variation"	""	0
+"PAFAH1B1 copy number variation"	-Inf	1	"PAFAH1B1 copy number variation"	""	0
+"Phosphatidyl inositol phosphate pathway"	-Inf	0.636820547946559	"Phosphatidyl inositol phosphate pathway"	""	0
+"8q11 23 RB1CC1 copy number variation"	1.01861567816735	0.354804426410047	"8q11 23 RB1CC1 copy number variation"	"7186"	1
+"IDO metabolic pathway"	-Inf	1	"IDO metabolic pathway"	""	0
+"Cell lineage map for neuronal differentiation"	-1.86674175589153	0.270468500528383	"Cell lineage map for neuronal differentiation"	"4929"	1
+"ADHD and autism ASD linked metabolic pathways and SNP"	-1.1760317526862	0.136380865429167	"ADHD and autism ASD linked metabolic pathways and SNP"	"221955;2906;253260;5582;5826"	5
+"IL 19 signaling pathway"	-Inf	1	"IL 19 signaling pathway"	""	0
+"Omega 6 fatty acids in senescence"	-1.2037767431691	1	"Omega 6 fatty acids in senescence"	"5600"	1
+"HDAC6 interactions in the central nervous system"	-Inf	0.077359137859823	"HDAC6 interactions in the central nervous system"	""	0
+"FGFR4 p G388R signaling pathway"	-Inf	1	"FGFR4 p G388R signaling pathway"	""	0
+"FLT3 p Gln640SerfsTer8 signaling pathway"	-Inf	1	"FLT3 p Gln640SerfsTer8 signaling pathway"	""	0
+"PGK1 PKM2 KHKC KHKA acting as protein kinases"	-Inf	1	"PGK1 PKM2 KHKC KHKA acting as protein kinases"	""	0
+"Pathways in cancer"	-1.28719275135674	0.0649227800788251	"Pathways in cancer"	"196883;374654;5582;9138;7186;2793;3551"	7
+"GNAQ pathways in port wine stain"	-Inf	1	"GNAQ pathways in port wine stain"	""	0
+"EPAC1 and PKA reduction of retinal inflammation"	-Inf	1	"EPAC1 and PKA reduction of retinal inflammation"	""	0
+"Artemisinin inhibition of uveal melanoma"	-Inf	1	"Artemisinin inhibition of uveal melanoma"	""	0
+"Wnt Beta catenin signaling inhibitors in current and past clinical trials"	-Inf	1	"Wnt Beta catenin signaling inhibitors in current and past clinical trials"	""	0
+"Acetaminophen in analgesia and antipyresis"	-Inf	1	"Acetaminophen in analgesia and antipyresis"	""	0
+"Hunger and satiety"	-Inf	1	"Hunger and satiety"	""	0
+"Complement activation"	-Inf	1	"Complement activation"	""	0
+"Biogenic amine synthesis"	-Inf	1	"Biogenic amine synthesis"	""	0
+"ACE inhibitor pathway"	-Inf	1	"ACE inhibitor pathway"	""	0
+"Complement and coagulation cascades"	-Inf	0.409245364275452	"Complement and coagulation cascades"	""	0
+"TGF beta receptor signaling"	-Inf	0.406008016465567	"TGF beta receptor signaling"	""	0
+"Heme biosynthesis"	-Inf	1	"Heme biosynthesis"	""	0
+"Monoamine GPCRs"	-Inf	1	"Monoamine GPCRs"	""	0
+"EPO receptor signaling"	-Inf	1	"EPO receptor signaling"	""	0
+"Interferon type I signaling pathways"	0.664978723552647	0.178265554433395	"Interferon type I signaling pathways"	"10401;7409;3276"	3
+"Notch signaling pathway"	-Inf	0.405385965924543	"Notch signaling pathway"	""	0
+"Type II interferon signaling"	-Inf	0.626260545679217	"Type II interferon signaling"	""	0
+"Oxidative phosphorylation"	-Inf	0.412463182577856	"Oxidative phosphorylation"	""	0
+"Glucose homeostasis"	-Inf	1	"Glucose homeostasis"	""	0
+"ErbB signaling pathway"	-1.55292630679149	0.521413889279824	"ErbB signaling pathway"	"5582"	1
+"Arachidonate epoxygenase epoxide hydrolase"	-Inf	1	"Arachidonate epoxygenase epoxide hydrolase"	""	0
+"Catalytic cycle of mammalian flavin containing monooxygenases FMOs "	-Inf	1	"Catalytic cycle of mammalian flavin containing monooxygenases FMOs "	""	0
+"T cell receptor signaling pathway"	0.314071561693518	0.457292230690901	"T cell receptor signaling pathway"	"1326;7409;3551"	3
+"Polyol pathway"	-Inf	1	"Polyol pathway"	""	0
+"Tamoxifen metabolism"	-Inf	1	"Tamoxifen metabolism"	""	0
+"Sulfation biotransformation reaction"	-Inf	1	"Sulfation biotransformation reaction"	""	0
+"Arylamine metabolism"	-Inf	1	"Arylamine metabolism"	""	0
+"Benzo a pyrene metabolism"	-Inf	1	"Benzo a pyrene metabolism"	""	0
+"Glucuronidation"	-Inf	1	"Glucuronidation"	""	0
+"Aflatoxin B1 metabolism"	-Inf	1	"Aflatoxin B1 metabolism"	""	0
+"Metapathway biotransformation Phase I and II"	-2.35061813149837	0.0655198859953173	"Metapathway biotransformation Phase I and II"	"79829"	1
+"Methylation pathways"	-Inf	1	"Methylation pathways"	""	0
+"Sudden infant death syndrome SIDS susceptibility pathways"	-Inf	0.0233194363850094	"Sudden infant death syndrome SIDS susceptibility pathways"	""	0
+"DNA damage response"	-Inf	0.265747636630043	"DNA damage response"	""	0
+"DNA damage response only ATM dependent "	-Inf	0.0773362422273443	"DNA damage response only ATM dependent "	""	0
+"Estrogen signaling pathway"	0.144146560251206	0.467502351028592	"Estrogen signaling pathway"	"3551"	1
+"Vitamin A and carotenoid metabolism"	-Inf	0.631436299139494	"Vitamin A and carotenoid metabolism"	""	0
+"Serotonin HTR1 group and FOS pathway"	-Inf	0.626260545679217	"Serotonin HTR1 group and FOS pathway"	""	0
+"Monoamine transport"	-Inf	1	"Monoamine transport"	""	0
+"Serotonin receptor 2 and ELK SRF GATA4 signaling"	-Inf	1	"Serotonin receptor 2 and ELK SRF GATA4 signaling"	""	0
+"Serotonin receptor 4 6 7 and NR3C signaling"	-Inf	1	"Serotonin receptor 4 6 7 and NR3C signaling"	""	0
+"Toll like receptor signaling pathway"	-0.121314582977128	0.757928196021004	"Toll like receptor signaling pathway"	"1326;5600;3551"	3
+"TCA cycle aka Krebs or citric acid cycle "	-Inf	1	"TCA cycle aka Krebs or citric acid cycle "	""	0
+"Nucleotide GPCRs"	-Inf	1	"Nucleotide GPCRs"	""	0
+"Prostaglandin synthesis and regulation"	-Inf	0.634850321008739	"Prostaglandin synthesis and regulation"	""	0
