@@ -98,18 +98,27 @@
 	grid.arrange(grobs=c(p_dist_FC_cris,p_dist_FDR_cris,p_volcano_cris),layout_matrix=cbind(c(1:5),c(6:10),c(11:15)),top="CRIS A-B")
 	pdf("out/DGE_genes.pdf")
 	db <- data.frame(classes=rep(levels(group),2),status=c(rep("shared",length(levels(group))),rep("not_shared",length(levels(group)))))
+	db_t <- db
 	for(i in levels(group)){
 		DGE_all <-  rownames(DGE[[1]][[i]])[which(DGE[[1]][[i]]$table$FDR < 0.05 & abs(DGE[[1]][[i]]$table$logFC)>2)]
 		DTE_transcripts <- rownames(DTE[[1]][[i]])[which(DTE[[1]][[i]]$table$FDR < 0.05 & abs(DTE[[1]][[i]]$table$logFC)>2)]
 		DTE_genes <- unique(fData(isoforms_cell_bank$cov)$Geneid[match(DTE_transcripts,rownames(isoforms_cell_bank$cov))])
 		db[which(db$status=="shared"& db$class==i),"gene_number"] <- length(intersect(DGE_all,DTE_genes))
 		db[which(db$status=="not_shared"& db$class==i),"gene_number"] <- length(setdiff(DGE_all,DTE_genes))		
+		db_t[which(db_t$status=="shared"& db$class==i),"gene_number"] <- length(intersect(DTE_genes,DGE_all))
+		db_t[which(db_t$status=="not_shared"& db$class==i),"gene_number"] <- length(setdiff(DTE_genes,DGE_all))		
+
+
 	}
-	gsub("not_shared","Not common to significative DTE related genes",db$status) ->db$status
+	gsub("not_shared","Not common to significative DTE related genes",db$status) ->db$status 
+	gsub("not_shared","Not common to significative DGE genes",db_t$status) ->db_t$status 
 	gsub("shared","Common to significative DTE related genes",db$status) ->db$status
-	db$classes <- sapply(strsplit(db$classes,"only"),"[[",2)
+	gsub("shared","Common to significative DGE genes",db_t$status) ->db_t$status
+	db_t$classes <- db$classes <- sapply(strsplit(db$classes,"only"),"[[",2)
 	plot(ggplot(data=db, aes(x=classes, y=gene_number, fill=status)) +
   geom_bar(stat="identity")+ggtitle("DGE significative genes"))
+	        plot(ggplot(data=db_t, aes(x=classes, y=gene_number, fill=status)) +
+  geom_bar(stat="identity")+ggtitle("DTE significative genes"))
 	dev.off()
 ##CMS DTE 
 	group <- factor(pData(isoforms_cell_bank$counts_75)$CMS_class[which(pData(isoforms_cell_bank$counts_75)$CMS_class!="NA")])

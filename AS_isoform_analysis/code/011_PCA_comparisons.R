@@ -37,8 +37,9 @@
         types <-  lapply(biot,names)                
         col <- brewer.pal(n = length(unique(unlist(types))), name = "Paired")
         names(col) <- unique(unlist(types))
-        lapply(biot,function(x){ggplot(data=data.frame(events=as.numeric(x),biotype=names(x)),aes(x=biotype,y=events,fill=biotype))+geom_bar(stat="identity")+scale_fill_manual(values=col[names(x)])+                                                           
-        theme_classic()+theme(axis.text.x=element_blank())})
+        
+lapply(biot,function(x){plot(ggplot(data=data.frame(events=as.numeric(x),biotype=names(x)),aes(x=biotype,y=events,fill=biotype))+geom_bar(stat="identity")+scale_fill_manual(values=col[names(x)])+                                                           
+        theme_classic()+theme(axis.text.x=element_blank()))})
         dev.off()
 
 ##filtering for expression

@@ -191,7 +191,8 @@ xlab("sample")+theme(axis.text.x=element_blank())+ggtitle("Transcript quantitati
 	
 	#vioplot(as.numeric(summary[names(Single_Cris),"total_transcripts"]) ~ Single_Cris ,main="Number of total transcript per sample",xlab="CRIS classes",ylab="total transcript number",col=c("red","darkgreen","lightblue","orange","blue"))
 	
-	plot(as.numeric(summary$total_transcripts),coverage[summary$sample,"coverage"],main=paste("Pearson correlation between transcript number\n and assigned reads:",cor(as.numeric(summary$total_transcripts),coverage[summary$sample,"coverage"],method="pearson"),sep=" "),xlab="total transcripts per sample",ylab="assigned reads",pch=20,col=ifelse(summary$sample%in%names(n_i_samples_cris)==TRUE,"#00AFBB","black"))
+	
+plot(log10(as.numeric(summary$total_transcripts)),log10(coverage[summary$sample,"coverage"]),main=paste("Pearson correlation between transcript number\n and assigned reads:",cor(as.numeric(summary$total_transcripts),coverage[summary$sample,"coverage"],method="pearson"),sep=" "),xlab="total transcripts per sample",ylab="assigned reads",pch=20,col=ifelse(summary$sample%in%names(cla)==TRUE,"#00AFBB","black"))
 
 	A <- vector()
 	for(i in Single_Cris$sample[which(Single_Cris$class=="onlyCRISA")]){A<-c(A,unname(total_isoforms[,i]))}

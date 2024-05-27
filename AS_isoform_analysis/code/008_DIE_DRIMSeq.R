@@ -97,9 +97,11 @@ pdf("out/DTU_genes.pdf")
         db <- data.frame(classes=rep(levels(group),2),status=c(rep("shared",length(levels(group))),rep("not_shared",length(levels(group)))))
         for(i in levels(group)){
                 DGE_all <-  rownames(DGE[[1]][[i]])[which(DGE[[1]][[i]]$table$FDR < 0.05 & abs(DGE[[1]][[i]]$table$logFC)>2)]
+		DTE_transcripts <- rownames(DTE[[1]][[i]])[which(DTE[[1]][[i]]$table$FDR < 0.05 & abs(DTE[[1]][[i]]$table$logFC)>2)]
+		DTE_genes <- unique(fData(isoforms_cell_bank$cov)$Geneid[match(DTE_transcripts,rownames(isoforms_cell_bank$cov))])
                 DTU_transcripts <- DIE[[1]][[i]]$rownam[which(DIE[[1]][[i]]$FDR < 0.01)]
                 DTU_genes <- unique(fData(isoforms_cell_bank$cov)$Geneid[match(DTU_transcripts,rownames(isoforms_cell_bank$cov))])
-		plot(ggvenn(list(DGE_genes = DGE_all,DTU_genes=DTU_genes),fill_color = c("#00BFC4", "#F8766D"),stroke_size = 0.5, set_name_size =4)+ 
+		plot(ggvenn(list(DGE_genes = DGE_all,DTE_genes=DTE_genes,DTU_genes=DTU_genes),fill_color = c("#00BFC4","#F8766D","#66CC99"),stroke_size = 0.5, set_name_size =4)+ 
 ggtitle(paste(i,"results",sep=" ")))
                 db[which(db$status=="shared"& db$class==i),"gene_number"] <- length(intersect(DTU_genes,DGE_all))
                 db[which(db$status=="not_shared"& db$class==i),"gene_number"] <- length(setdiff(DTU_genes,DGE_all))
