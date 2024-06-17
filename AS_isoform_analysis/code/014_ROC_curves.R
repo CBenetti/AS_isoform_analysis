@@ -17,12 +17,14 @@ aucs_genes_D <- vector()
 aucs_genes_E <- vector()
 for (i in 1:length(fData(predictive_genes)$class_specificity))
 {
+pdf(paste("out/ROCR/genes",i,".pdf"))
   cris_class <- fData(predictive_genes)$class_specificity[i]
   event <- rep(0,length(pData(predictive_genes)$CRIS_class))
   event[which(pData(predictive_genes)$CRIS_class==cris_class)] <- 1
   vals <- exprs(predictive_genes)[i,]
   pred <- prediction(vals, event)
   perf <- performance(pred,"tpr", "fpr")
+	plot(perf,  avg="threshold",     spread.estimate="boxplot")
   au <- performance(pred,"auc")
   #pdf(file=paste("out/ROC_",names(Scores)[[i]],"times",tempo, "months_new.pdf", sep=""), width=10, heigh=10 )
   #par(mar=c(5,7,4,2), cex.axis=2.5, las=1)
@@ -35,7 +37,7 @@ for (i in 1:length(fData(predictive_genes)$class_specificity))
   #legend("bottomright", legend=c(paste("AUC = ",round(au@y.values[[1]], 
   #                                                    digits=3))),
   #       text.col=c("black"), cex=1.5)
-  #dev.off()
+  dev.off()
   if(fData(predictive_genes)$class_specificity[i]=="onlyCRISA")
   {aucs_genes_A <- c(aucs_genes_A, au@y.values[[1]])}
   else if(fData(predictive_genes)$class_specificity[i]=="onlyCRISB")
@@ -76,6 +78,8 @@ for (i in 1:length(fData(predictive_isoform_proportions)$class_specificity))
 }
 
 #Desnity plot
+
+
 aucs_A <- cbind(c(aucs_genes_A, aucs_iso_A), 
                 c(rep("genes", length(aucs_genes_A)), 
                   rep("isoform_proportions", length(aucs_iso_A))))
@@ -145,8 +149,19 @@ print(ggplot_aucs_E)
 dev.off()
 
 
+###pvalue
+auc_g <- list(aucs_genes_A,aucs_genes_B,aucs_genes_D,aucs_genes_E)
+auc_i <- list(aucs_iso_A,aucs_iso_B,aucs_iso_D,aucs_iso_E)
 
+for(i in c(1:4)){p_val[i]=t.test(auc_g[[i]],auc_i[[i]])$p.value}
 
+tab <- cbind(
+c("CRIS-A","CRIS-B","CRIS-D","CRIS-E"),c(mean(aucs_genes_A),mean(aucs_genes_B),mean(aucs_genes_D),mean(aucs_genes_E)),
+c(mean(aucs_iso_A),mean(aucs_iso_B),mean(aucs_iso_D),mean(aucs_iso_E)),
+p_val
+)
+colnames(tab) <- c("Class","Mean AUC genes","Mean AUC isoforms","p-value")
+write.table(tab,"out/distributions.txt",sep="\t", col.names=T)
 
 ### comparing signature genes
 aucs_signgenes_A <- vector()
